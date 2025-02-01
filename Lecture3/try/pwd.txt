@@ -1,0 +1,5 @@
+/Users/yingyingchen/dropbox/456-2018-spring/code/lecture_3_code/try
+total 8
+drwxr-xr-x@  3 yingyingchen  staff  102 Feb  5 11:50 .
+drwxr-xr-x@ 10 yingyingchen  staff  340 Feb  4 16:27 ..
+-rw-r--r--@  1 yingyingchen  staff   68 Feb  5 11:50 pwd.txt

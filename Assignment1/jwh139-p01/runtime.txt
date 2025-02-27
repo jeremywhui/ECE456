@@ -1,0 +1,28 @@
+When running the Standard I/O implementation:
+time ./p01 test_10MB.txt a aa
+The output is:
+10485760
+10485759
+
+real    0m0.097s
+user    0m0.084s
+sys     0m0.013s
+
+When running the system calls implementation however:
+time ./p01 --systemcalls test_10MB.txt a aa
+10485760
+10485759
+
+real    0m2.435s
+user    0m0.270s
+sys     0m2.163s
+
+While the program outputs of both options are the same, the standard I/O implementation runs
+much faster than the system calls implementation. These results make sense, because the 
+standard I/O implementation uses a buffer, whereas the system calls implementation directly
+reads from the file. When reading from the buffer, the data from the file is moved to 
+dynamic memory that is used temporarily as the program is running, which allows for faster 
+reads due to the closer locality of the data. On the other hand, system calls requires
+the data to be retrieved from the file in secondary storage, which is slower than accessing
+from the dynamically allocated buffer. Thus the standard I/O implementation has the lower 
+runtime and thus higher performance compared to the system calls implementation.

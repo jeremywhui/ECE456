@@ -3,7 +3,7 @@
 //write a string to a file, and read the file and display the string.
 int main () {
    FILE *fp;
-   char c[] = "Network Centric Programming";
+   char c[] = "ECE 456 Network Centric Programming";
    char buffer[100];
 
    /* Open file for both reading and writing */

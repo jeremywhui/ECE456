@@ -1,0 +1,26 @@
+Question 1
+What is the key difference between Standard I/O and System Call I/O?
+Standard I/O is buffered and therefore minimizes the number of system
+calls to read and write, whereas the system call I/O is unbuffered 
+and therefore must invoke the kernel each time it makes a read or write.
+
+Which one generally provides better performance, and why?
+Generally standard I/O provides better performance, because it less
+system calls to read and write and can instead read and write to/from
+the buffer. This makes it so that it does less context switching to
+be in system mode from user mode, and therefore results in higher
+performance (less time to read and write).
+
+When would it be better to use system calls instead of Standard I/O?
+It would be better to use system calls instead of Standard I/O if
+you have a memory sensitive application and cannot afford to use
+extra memory to maintain a buffer. Additionally if you do not want
+to use a buffer, like printing to stderr, it may be better to use system
+calls.
+
+Question 2
+IPv4 uses 32-bit format, while IPv6 uses 128-bit format
+It is represented as 4 decimal numbers, while IPv6 uses
+8 hexadecimal numbers separated by colons.
+
+getaddrinfo() is used to 

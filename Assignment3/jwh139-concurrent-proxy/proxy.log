@@ -1,0 +1,973 @@
+Tue 15 Apr 2025 00:34:20 EDT: 127.0.0.1 http://www.example.com/ 973
+Tue 15 Apr 2025 00:34:35 EDT: 127.0.0.1 http://www.rouses.net/ 2142
+Tue 15 Apr 2025 00:34:48 EDT: 127.0.0.1 http://www.example.com/ 973
+Tue 15 Apr 2025 00:34:49 EDT: 127.0.0.1 http://www.example.com/ 973
+Tue 15 Apr 2025 00:36:10 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 00:36:12 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 00:36:15 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 00:36:16 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 00:38:19 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 00:38:19 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 00:38:33 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 00:38:33 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 00:39:34 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 00:39:34 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 00:39:43 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 00:39:43 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 10:01:10 EDT: 127.0.0.1 http://www.example.com/ 973
+Tue 15 Apr 2025 10:01:11 EDT: 127.0.0.1 http://www.portquiz.net:1234/ 1419
+Tue 15 Apr 2025 10:02:35 EDT: 127.0.0.1 http://www.portquiz.net:1234/ 1419
+Tue 15 Apr 2025 10:02:39 EDT: 127.0.0.1 http://www.portquiz.net:5678/ 1418
+Tue 15 Apr 2025 10:04:41 EDT: 127.0.0.1 http://www.portquiz.net:5678/ 1418
+Tue 15 Apr 2025 10:05:06 EDT: 127.0.0.1 http://www.portquiz.net:1234/ 1419
+Tue 15 Apr 2025 10:21:18 EDT: 127.0.0.1 http://www.portquiz.net:5678/ 1418
+Tue 15 Apr 2025 10:21:30 EDT: 127.0.0.1 http://www.portquiz.net:1234/ 1419
+Tue 15 Apr 2025 10:22:04 EDT: 127.0.0.1 http://www.portquiz.net:5678/ 1418
+Tue 15 Apr 2025 10:22:07 EDT: 127.0.0.1 http://www.portquiz.net:1234/ 1419
+Tue 15 Apr 2025 10:23:36 EDT: 127.0.0.1 http://detectportal.firefox.com/canonical.html 317
+Tue 15 Apr 2025 10:23:36 EDT: 127.0.0.1 http://detectportal.firefox.com/success.txt?ipv4 235
+Tue 15 Apr 2025 10:23:38 EDT: 127.0.0.1 http://www.example.com/ 245
+Tue 15 Apr 2025 10:23:38 EDT: 127.0.0.1 http://www.example.com/favicon.ico 1643
+Tue 15 Apr 2025 10:24:50 EDT: 127.0.0.1 http://detectportal.firefox.com/canonical.html 317
+Tue 15 Apr 2025 10:24:50 EDT: 127.0.0.1 http://detectportal.firefox.com/success.txt?ipv4 235
+Tue 15 Apr 2025 11:21:36 EDT: 127.0.0.1 http://www.example.com/ 244
+Tue 15 Apr 2025 11:21:36 EDT: 127.0.0.1 http://www.example.com/favicon.ico 1643
+Tue 15 Apr 2025 11:21:43 EDT: 127.0.0.1 http://www.example.com/ 244
+Tue 15 Apr 2025 11:22:47 EDT: 127.0.0.1 http://www.portquiz.net:5678/ 1418
+Tue 15 Apr 2025 11:28:13 EDT: 127.0.0.1 http://www.example.com:443/ 972
+Tue 15 Apr 2025 11:32:53 EDT: 127.0.0.1 http://www.example.com/favicon.ico 1643
+Tue 15 Apr 2025 11:33:23 EDT: 127.0.0.1 http://portquiz.net:2000/ 1419
+Tue 15 Apr 2025 11:33:40 EDT: 127.0.0.1 http://portquiz.net:2000/portquizm.png 144
+Tue 15 Apr 2025 11:35:13 EDT: 127.0.0.1 http://www.example.com:443/ 522
+Tue 15 Apr 2025 11:36:33 EDT: 127.0.0.1 http://www.example.com/ 245
+Tue 15 Apr 2025 22:42:33 EDT: 127.0.0.1 http://www.example.com/ 522
+Tue 15 Apr 2025 22:42:37 EDT: 127.0.0.1 http://www.example.com/ 522
+Tue 15 Apr 2025 22:42:38 EDT: 127.0.0.1 http://www.example.com/ 522
+Tue 15 Apr 2025 22:42:51 EDT: 127.0.0.1 http://www.example.com/ 522
+Tue 15 Apr 2025 22:42:51 EDT: 127.0.0.1 http://www.example.com/ 522
+Tue 15 Apr 2025 22:44:04 EDT: 127.0.0.1 http://www.example.com/ 522
+Tue 15 Apr 2025 22:44:04 EDT: 127.0.0.1 http://www.example.com/ 522
+Tue 15 Apr 2025 22:44:27 EDT: 127.0.0.1 http://www.example.com/ 522
+Tue 15 Apr 2025 22:44:27 EDT: 127.0.0.1 http://www.example.com/ 522
+Tue 15 Apr 2025 22:45:27 EDT: 127.0.0.1 http://www.example.com/ 522
+Tue 15 Apr 2025 22:45:27 EDT: 127.0.0.1 http://www.example.com/ 522
+Tue 15 Apr 2025 22:46:01 EDT: 127.0.0.1 http://www.example.com/ 973
+Tue 15 Apr 2025 22:46:20 EDT: 127.0.0.1 http://www.example.com/ 522
+Tue 15 Apr 2025 22:46:59 EDT: 127.0.0.1 http://www.example.com/ 522
+Tue 15 Apr 2025 22:48:50 EDT: 127.0.0.1 http://www.example.com/ 973
+Tue 15 Apr 2025 22:48:50 EDT: 127.0.0.1 http://www.example.com/ 973
+Tue 15 Apr 2025 22:51:59 EDT: 127.0.0.1 http://www.example.com/ 973
+Tue 15 Apr 2025 22:51:59 EDT: 127.0.0.1 http://www.example.com/ 973
+Tue 15 Apr 2025 22:54:46 EDT: 127.0.0.1 http://www.example.com/ 973
+Tue 15 Apr 2025 22:54:46 EDT: 127.0.0.1 http://www.example.com/ 973
+Tue 15 Apr 2025 22:54:46 EDT: 127.0.0.1 http://www.example.com/ 973
+Tue 15 Apr 2025 22:55:36 EDT: 127.0.0.1 http://www.example.com/ 973
+Tue 15 Apr 2025 22:55:36 EDT: 127.0.0.1 http://www.example.com/ 973
+Tue 15 Apr 2025 22:56:22 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:56:22 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:56:22 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:56:22 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:56:22 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:56:22 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:56:22 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:56:22 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:56:22 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:59:28 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:59:28 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:59:28 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:59:28 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:59:28 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:59:28 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:59:28 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:59:28 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:59:28 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:59:46 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:59:46 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:59:46 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:59:46 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:59:46 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:59:46 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:59:46 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:59:46 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 22:59:46 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 23:02:54 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 23:02:54 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 23:02:54 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 23:02:54 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 23:02:55 EDT: 127.0.0.1 http://www.example.com/ 972
+Tue 15 Apr 2025 23:04:36 EDT: 127.0.0.1 http://mog.dog/files/SP2019/Sipser_Introduction.to.the.Theory.of.Computation.3E.pdf 409
+Tue 15 Apr 2025 23:04:39 EDT: 127.0.0.1 http://mog.dog/files/SP2019/Sipser_Introduction.to.the.Theory.of.Computation.3E.pdf 409
+Tue 15 Apr 2025 23:04:40 EDT: 127.0.0.1 http://mog.dog/files/SP2019/Sipser_Introduction.to.the.Theory.of.Computation.3E.pdf 409
+Tue 15 Apr 2025 23:09:11 EDT: 127.0.0.1 http://portquiz.net:1234/ 1419
+Tue 15 Apr 2025 23:09:17 EDT: 127.0.0.1 http://portquiz.net:1234/ 1419
+Wed 16 Apr 2025 10:15:04 EDT: 127.0.0.1 http://example.com/ 973
+Wed 16 Apr 2025 10:15:15 EDT: 127.0.0.1 http://example.com/ 973
+Wed 16 Apr 2025 10:15:24 EDT: 127.0.0.1 http://portquiz.net:1234/ 1420
+Wed 16 Apr 2025 10:18:22 EDT: 127.0.0.1 http://example.com/ 973
+Wed 16 Apr 2025 10:18:35 EDT: 127.0.0.1 http://portquiz.net:1234/ 1420
+Wed 16 Apr 2025 15:19:58 EDT: 127.0.0.1 http://www.example.com/ 973
+Wed 16 Apr 2025 15:20:34 EDT: 127.0.0.1 http://www.example.com/favicon.ico 1643
+Wed 16 Apr 2025 15:20:50 EDT: 127.0.0.1 http://example.com/ 245
+Wed 16 Apr 2025 15:20:55 EDT: 127.0.0.1 http://www.example.com/favicon.ico 1643
+Wed 16 Apr 2025 15:21:04 EDT: 127.0.0.1 http://portquiz.net:2000/ 1421
+Thu 17 Apr 2025 00:05:15 EDT CONNECT from 127.0.0.1 to www.example.com:445, Data Transferred 0/0
+Thu 17 Apr 2025 00:09:39 EDT CONNECT from 127.0.0.1 to www.example.com:445, Data Transferred 0/0
+Thu 17 Apr 2025 10:41:37 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 2599/20301
+Thu 17 Apr 2025 10:41:37 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 2624/39910
+Thu 17 Apr 2025 10:41:37 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 2697/26209
+Thu 17 Apr 2025 10:41:37 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 2699/29763
+Thu 17 Apr 2025 10:41:37 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 2624/19106
+Thu 17 Apr 2025 10:41:37 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 10:41:37 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 1899/5187
+Thu 17 Apr 2025 10:41:37 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 3562/5372
+Thu 17 Apr 2025 10:41:37 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 2624/19316
+Thu 17 Apr 2025 10:41:37 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 2908/5372
+Thu 17 Apr 2025 10:41:37 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 2906/5372
+Thu 17 Apr 2025 10:41:37 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 2907/5372
+Thu 17 Apr 2025 10:41:38 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2927/9053
+Thu 17 Apr 2025 10:41:40 EDT CONNECT from 127.0.0.1 to www.example.com:443, Data Transferred 2610/6160
+Thu 17 Apr 2025 10:41:40 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 9241/5695
+Thu 17 Apr 2025 10:41:44 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3159/22675
+Thu 17 Apr 2025 10:42:04 EDT: 127.0.0.1 http://www.example.com/ 245
+Thu 17 Apr 2025 10:42:04 EDT: 127.0.0.1 http://www.example.com/favicon.ico 1643
+Thu 17 Apr 2025 10:42:06 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 6126/1415
+Thu 17 Apr 2025 10:42:06 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 3034/2834
+Thu 17 Apr 2025 10:42:06 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 6955/1986
+Thu 17 Apr 2025 10:42:06 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 4437/15866
+Thu 17 Apr 2025 10:42:17 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2466/1300
+Thu 17 Apr 2025 10:42:17 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 1899/5186
+Thu 17 Apr 2025 10:42:17 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 6087/1376
+Thu 17 Apr 2025 10:42:18 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2755/8354
+Thu 17 Apr 2025 10:42:18 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 4389/20957
+Thu 17 Apr 2025 10:42:21 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 11502/2655
+Thu 17 Apr 2025 10:42:43 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3516/1055
+Thu 17 Apr 2025 10:43:58 EDT: 127.0.0.1 http://rouses.net/trumpet.gif 1388
+Thu 17 Apr 2025 10:44:00 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2466/1300
+Thu 17 Apr 2025 10:44:01 EDT CONNECT from 127.0.0.1 to encrypted-tbn0.gstatic.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 10:44:05 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 9350/1811
+Thu 17 Apr 2025 10:44:05 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 5241/1578
+Thu 17 Apr 2025 10:44:05 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 13276/3103
+Thu 17 Apr 2025 10:44:05 EDT: 127.0.0.1 http://detectportal.firefox.com/canonical.html 317
+Thu 17 Apr 2025 10:44:05 EDT: 127.0.0.1 http://detectportal.firefox.com/success.txt?ipv4 235
+Thu 17 Apr 2025 10:44:06 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 4108/14452
+Thu 17 Apr 2025 10:44:11 EDT CONNECT from 127.0.0.1 to www.rouses.net:443, Data Transferred 2604/2339
+Thu 17 Apr 2025 10:44:16 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 6126/1415
+Thu 17 Apr 2025 10:44:17 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2775/8760
+Thu 17 Apr 2025 10:44:17 EDT CONNECT from 127.0.0.1 to encrypted-tbn0.gstatic.com:443, Data Transferred 2493/9013
+Thu 17 Apr 2025 10:44:17 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 4464/1405
+Thu 17 Apr 2025 10:44:18 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 11557/2816
+Thu 17 Apr 2025 10:44:18 EDT CONNECT from 127.0.0.1 to images-na.ssl-images-amazon.com:443, Data Transferred 2494/7715
+Thu 17 Apr 2025 10:44:19 EDT CONNECT from 127.0.0.1 to c.amazon-adsystem.com:443, Data Transferred 2461/5600
+Thu 17 Apr 2025 10:44:19 EDT CONNECT from 127.0.0.1 to images-na.ssl-images-amazon.com:443, Data Transferred 2506/17642
+Thu 17 Apr 2025 10:44:20 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 5392/4974
+Thu 17 Apr 2025 10:44:20 EDT CONNECT from 127.0.0.1 to aes.us-east.ono.axp.amazon-adsystem.com:443, Data Transferred 3045/5814
+Thu 17 Apr 2025 10:44:20 EDT CONNECT from 127.0.0.1 to safebrowsing.googleapis.com:443, Data Transferred 2654/6810
+Thu 17 Apr 2025 10:44:20 EDT CONNECT from 127.0.0.1 to images-na.ssl-images-amazon.com:443, Data Transferred 15231/489022
+Thu 17 Apr 2025 10:44:21 EDT CONNECT from 127.0.0.1 to m.media-amazon.com:443, Data Transferred 23964/2245410
+Thu 17 Apr 2025 10:44:21 EDT CONNECT from 127.0.0.1 to safebrowsing.googleapis.com:443, Data Transferred 3222/2528
+Thu 17 Apr 2025 10:44:21 EDT CONNECT from 127.0.0.1 to www.imdb.com:443, Data Transferred 2405/7292
+Thu 17 Apr 2025 10:44:21 EDT CONNECT from 127.0.0.1 to geo.ads.audio.thisisdax.com:443, Data Transferred 2580/3979
+Thu 17 Apr 2025 10:44:21 EDT CONNECT from 127.0.0.1 to unagi-na.amazon.com:443, Data Transferred 5315/7007
+Thu 17 Apr 2025 10:44:21 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 5687/8232
+Thu 17 Apr 2025 10:44:21 EDT CONNECT from 127.0.0.1 to pbs.yahoo.com:443, Data Transferred 2541/6855
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to sync-amazon.ads.yieldmo.com:443, Data Transferred 2601/5220
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to usersync.gumgum.com:443, Data Transferred 2533/4887
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to pi.ispot.tv:443, Data Transferred 2450/4258
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to dsum-sec.casalemedia.com:443, Data Transferred 2680/5541
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to spl.zeotap.com:443, Data Transferred 2452/4584
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to www.facebook.com:443, Data Transferred 2543/8262
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to pixel.rubiconproject.com:443, Data Transferred 2500/5487
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to aa.agkn.com:443, Data Transferred 2399/6588
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 24561/12420
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to ads.stickyadstv.com:443, Data Transferred 2565/5149
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to ads.samba.tv:443, Data Transferred 2519/4870
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to odr.mookie1.com:443, Data Transferred 2509/7303
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to crb.kargo.com:443, Data Transferred 2558/5159
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to lciapi.ninthdecimal.com:443, Data Transferred 2529/4557
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to cms.analytics.yahoo.com:443, Data Transferred 2421/6305
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to rtb-csync.smartadserver.com:443, Data Transferred 2474/4522
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to ssum-sec.casalemedia.com:443, Data Transferred 2608/5430
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to public-prod-dspcookiematching.dmxleo.com:443, Data Transferred 2533/5241
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to c1.adform.net:443, Data Transferred 2648/6838
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to match.360yield.com:443, Data Transferred 2721/6527
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to jadserve.postrelease.com:443, Data Transferred 2573/5850
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to sync.taboola.com:443, Data Transferred 2454/3783
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to usersync.samplicio.us:443, Data Transferred 2442/4873
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to csync.loopme.me:443, Data Transferred 2577/4240
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to image6.pubmatic.com:443, Data Transferred 2642/4980
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to dpm.demdex.net:443, Data Transferred 2665/6012
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to ms-cookie-sync.presage.io:443, Data Transferred 2498/2945
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to x.bidswitch.net:443, Data Transferred 2501/4071
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to ads.stickyadstv.com:443, Data Transferred 2505/5086
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to ib.adnxs.com:443, Data Transferred 2572/3842
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to loadus.exelator.com:443, Data Transferred 2591/5462
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to image2.pubmatic.com:443, Data Transferred 2545/5194
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to sync.rfp.fout.jp:443, Data Transferred 2467/5241
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to us-u.openx.net:443, Data Transferred 2552/4370
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to us-u.openx.net:443, Data Transferred 2975/4715
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to capi.connatix.com:443, Data Transferred 2677/4930
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to eb2.3lift.com:443, Data Transferred 2685/5345
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to x.bidswitch.net:443, Data Transferred 2538/3999
+Thu 17 Apr 2025 10:44:22 EDT CONNECT from 127.0.0.1 to cm.g.doubleclick.net:443, Data Transferred 2501/7067
+Thu 17 Apr 2025 10:44:23 EDT CONNECT from 127.0.0.1 to cm.g.doubleclick.net:443, Data Transferred 2992/8768
+Thu 17 Apr 2025 10:44:23 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 337262/7007
+Thu 17 Apr 2025 10:44:23 EDT CONNECT from 127.0.0.1 to completion.amazon.com:443, Data Transferred 2901/6637
+Thu 17 Apr 2025 10:44:23 EDT CONNECT from 127.0.0.1 to cookie-matching.mediarithmics.com:443, Data Transferred 2846/5664
+Thu 17 Apr 2025 10:44:23 EDT CONNECT from 127.0.0.1 to ups.analytics.yahoo.com:443, Data Transferred 2532/5608
+Thu 17 Apr 2025 10:44:23 EDT CONNECT from 127.0.0.1 to s.amazon-adsystem.com:443, Data Transferred 4131/8246
+Thu 17 Apr 2025 10:44:23 EDT CONNECT from 127.0.0.1 to sb.scorecardresearch.com:443, Data Transferred 2616/6620
+Thu 17 Apr 2025 10:44:23 EDT CONNECT from 127.0.0.1 to s.amazon-adsystem.com:443, Data Transferred 5143/9248
+Thu 17 Apr 2025 10:44:23 EDT CONNECT from 127.0.0.1 to cm.g.doubleclick.net:443, Data Transferred 2537/7172
+Thu 17 Apr 2025 10:44:23 EDT CONNECT from 127.0.0.1 to s.amazon-adsystem.com:443, Data Transferred 9656/22956
+Thu 17 Apr 2025 10:44:23 EDT CONNECT from 127.0.0.1 to s.amazon-adsystem.com:443, Data Transferred 3576/7745
+Thu 17 Apr 2025 10:44:23 EDT CONNECT from 127.0.0.1 to image4.pubmatic.com:443, Data Transferred 2519/4858
+Thu 17 Apr 2025 10:44:23 EDT CONNECT from 127.0.0.1 to ib.adnxs.com:443, Data Transferred 3312/6828
+Thu 17 Apr 2025 10:44:23 EDT CONNECT from 127.0.0.1 to uipglob.semasio.net:443, Data Transferred 3117/4331
+Thu 17 Apr 2025 10:44:23 EDT CONNECT from 127.0.0.1 to s.amazon-adsystem.com:443, Data Transferred 2754/824
+Thu 17 Apr 2025 10:44:24 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 9151/192023
+Thu 17 Apr 2025 10:44:24 EDT CONNECT from 127.0.0.1 to s.amazon-adsystem.com:443, Data Transferred 2690/824
+Thu 17 Apr 2025 10:44:25 EDT CONNECT from 127.0.0.1 to match.sharethrough.com:443, Data Transferred 2548/4281
+Thu 17 Apr 2025 10:44:32 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 11787/939
+Thu 17 Apr 2025 10:44:33 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 3224/7701
+Thu 17 Apr 2025 10:44:34 EDT CONNECT from 127.0.0.1 to m.media-amazon.com:443, Data Transferred 2465/62447
+Thu 17 Apr 2025 10:44:34 EDT CONNECT from 127.0.0.1 to unagi-na.amazon.com:443, Data Transferred 4054/7007
+Thu 17 Apr 2025 10:44:34 EDT CONNECT from 127.0.0.1 to m.media-amazon.com:443, Data Transferred 2405/7171
+Thu 17 Apr 2025 10:44:34 EDT CONNECT from 127.0.0.1 to m.media-amazon.com:443, Data Transferred 2476/11580
+Thu 17 Apr 2025 10:44:39 EDT CONNECT from 127.0.0.1 to aes.us-east.ono.axp.amazon-adsystem.com:443, Data Transferred 3185/5814
+Thu 17 Apr 2025 10:44:39 EDT CONNECT from 127.0.0.1 to m.media-amazon.com:443, Data Transferred 2445/19497
+Thu 17 Apr 2025 10:44:39 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3509/1055
+Thu 17 Apr 2025 10:44:39 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 4566/7007
+Thu 17 Apr 2025 10:44:40 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 3417/1296
+Thu 17 Apr 2025 10:44:41 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 3734/16171
+Thu 17 Apr 2025 10:44:42 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 8205/7358
+Thu 17 Apr 2025 10:44:42 EDT CONNECT from 127.0.0.1 to images-na.ssl-images-amazon.com:443, Data Transferred 2410/10230
+Thu 17 Apr 2025 10:44:53 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 6126/1397
+Thu 17 Apr 2025 10:44:53 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2466/1300
+Thu 17 Apr 2025 10:44:53 EDT CONNECT from 127.0.0.1 to ads-img.mozilla.org:443, Data Transferred 2671/5283
+Thu 17 Apr 2025 10:44:53 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 6962/2212
+Thu 17 Apr 2025 10:44:53 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3825/1173
+Thu 17 Apr 2025 10:45:00 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 3056/9215
+Thu 17 Apr 2025 10:45:00 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 64097/10725
+Thu 17 Apr 2025 10:45:00 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 6087/1358
+Thu 17 Apr 2025 10:45:01 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 4425/1387
+Thu 17 Apr 2025 10:45:02 EDT CONNECT from 127.0.0.1 to dn.rutgers.edu:443, Data Transferred 4141/9806
+Thu 17 Apr 2025 10:45:03 EDT CONNECT from 127.0.0.1 to cas.rutgers.edu:443, Data Transferred 4405/7535
+Thu 17 Apr 2025 10:45:03 EDT CONNECT from 127.0.0.1 to cas.rutgers.edu:443, Data Transferred 12399/182111
+Thu 17 Apr 2025 10:45:03 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 11485/2339
+Thu 17 Apr 2025 10:45:03 EDT CONNECT from 127.0.0.1 to cas.rutgers.edu:443, Data Transferred 4428/7535
+Thu 17 Apr 2025 10:45:03 EDT CONNECT from 127.0.0.1 to safebrowsing.googleapis.com:443, Data Transferred 3220/2529
+Thu 17 Apr 2025 10:45:03 EDT CONNECT from 127.0.0.1 to cas.rutgers.edu:443, Data Transferred 4404/7535
+Thu 17 Apr 2025 10:45:03 EDT CONNECT from 127.0.0.1 to cas.rutgers.edu:443, Data Transferred 4426/7535
+Thu 17 Apr 2025 10:45:11 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3548/1094
+Thu 17 Apr 2025 10:45:12 EDT CONNECT from 127.0.0.1 to cas.rutgers.edu:443, Data Transferred 10012/33335
+Thu 17 Apr 2025 10:45:14 EDT CONNECT from 127.0.0.1 to cas.rutgers.edu:443, Data Transferred 9078/8359
+Thu 17 Apr 2025 10:45:15 EDT CONNECT from 127.0.0.1 to api-4104af0d.duosecurity.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 10:45:15 EDT CONNECT from 127.0.0.1 to api-4104af0d.duosecurity.com:443, Data Transferred 8179/95101
+Thu 17 Apr 2025 10:45:15 EDT CONNECT from 127.0.0.1 to api-4104af0d.duosecurity.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 10:45:15 EDT CONNECT from 127.0.0.1 to api-4104af0d.duosecurity.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 10:45:18 EDT CONNECT from 127.0.0.1 to ux-asset-commercial.duosecurity.com:443, Data Transferred 2591/5582
+Thu 17 Apr 2025 10:45:20 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 10420/4973
+Thu 17 Apr 2025 10:45:20 EDT CONNECT from 127.0.0.1 to api-4104af0d.duosecurity.com:443, Data Transferred 10610/530511
+Thu 17 Apr 2025 10:45:22 EDT CONNECT from 127.0.0.1 to api-4104af0d.duosecurity.com:443, Data Transferred 3640/5830
+Thu 17 Apr 2025 10:45:23 EDT CONNECT from 127.0.0.1 to api-4104af0d.duosecurity.com:443, Data Transferred 20219/29055
+Thu 17 Apr 2025 10:45:29 EDT CONNECT from 127.0.0.1 to api-4104af0d.duosecurity.com:443, Data Transferred 2148/4210
+Thu 17 Apr 2025 10:45:36 EDT CONNECT from 127.0.0.1 to api-4104af0d.duosecurity.com:443, Data Transferred 7509/6028
+Thu 17 Apr 2025 10:45:42 EDT CONNECT from 127.0.0.1 to api-4104af0d.duosecurity.com:443, Data Transferred 2252/4210
+Thu 17 Apr 2025 10:45:49 EDT CONNECT from 127.0.0.1 to api-4104af0d.duosecurity.com:443, Data Transferred 7717/5832
+Thu 17 Apr 2025 10:45:51 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 5748/5181
+Thu 17 Apr 2025 10:45:55 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 4007/7029
+Thu 17 Apr 2025 10:45:55 EDT CONNECT from 127.0.0.1 to api-4104af0d.duosecurity.com:443, Data Transferred 2252/4210
+Thu 17 Apr 2025 10:45:57 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 3151/4974
+Thu 17 Apr 2025 10:45:57 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 3148/6412
+Thu 17 Apr 2025 10:46:02 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 4195/7007
+Thu 17 Apr 2025 10:46:07 EDT CONNECT from 127.0.0.1 to api-4104af0d.duosecurity.com:443, Data Transferred 10720/10115
+Thu 17 Apr 2025 10:46:13 EDT CONNECT from 127.0.0.1 to dn.rutgers.edu:443, Data Transferred 15873/102875
+Thu 17 Apr 2025 10:46:13 EDT CONNECT from 127.0.0.1 to dn.rutgers.edu:443, Data Transferred 9157/57708
+Thu 17 Apr 2025 10:46:13 EDT CONNECT from 127.0.0.1 to dn.rutgers.edu:443, Data Transferred 10489/87045
+Thu 17 Apr 2025 10:46:14 EDT CONNECT from 127.0.0.1 to dn.rutgers.edu:443, Data Transferred 9217/34624
+Thu 17 Apr 2025 10:46:14 EDT CONNECT from 127.0.0.1 to cas.rutgers.edu:443, Data Transferred 3263/8519
+Thu 17 Apr 2025 10:46:14 EDT CONNECT from 127.0.0.1 to dn.rutgers.edu:443, Data Transferred 10918/247804
+Thu 17 Apr 2025 10:46:14 EDT CONNECT from 127.0.0.1 to dn.rutgers.edu:443, Data Transferred 6262/122081
+Thu 17 Apr 2025 10:46:24 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 6277/7007
+Thu 17 Apr 2025 10:46:24 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 6129/7007
+Thu 17 Apr 2025 10:46:24 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 5620/5179
+Thu 17 Apr 2025 10:46:24 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 6126/1415
+Thu 17 Apr 2025 10:46:25 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 1899/5187
+Thu 17 Apr 2025 10:46:25 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 6961/2136
+Thu 17 Apr 2025 10:46:25 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3825/1151
+Thu 17 Apr 2025 10:46:25 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2466/1300
+Thu 17 Apr 2025 10:46:27 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 3326/25042
+Thu 17 Apr 2025 10:46:32 EDT CONNECT from 127.0.0.1 to ogads-pa.clients6.google.com:443, Data Transferred 2573/11842
+Thu 17 Apr 2025 10:46:32 EDT CONNECT from 127.0.0.1 to www.gstatic.com:443, Data Transferred 2551/89002
+Thu 17 Apr 2025 10:46:32 EDT CONNECT from 127.0.0.1 to csp.withgoogle.com:443, Data Transferred 2997/7972
+Thu 17 Apr 2025 10:46:32 EDT CONNECT from 127.0.0.1 to apis.google.com:443, Data Transferred 2770/46271
+Thu 17 Apr 2025 10:46:32 EDT CONNECT from 127.0.0.1 to ogads-pa.clients6.google.com:443, Data Transferred 2951/12088
+Thu 17 Apr 2025 10:46:32 EDT CONNECT from 127.0.0.1 to safebrowsing.googleapis.com:443, Data Transferred 3221/2528
+Thu 17 Apr 2025 10:46:32 EDT CONNECT from 127.0.0.1 to www.gstatic.com:443, Data Transferred 2546/8734
+Thu 17 Apr 2025 10:46:33 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 18052/615267
+Thu 17 Apr 2025 10:46:33 EDT CONNECT from 127.0.0.1 to play.google.com:443, Data Transferred 1900/7696
+Thu 17 Apr 2025 10:46:34 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 6126/1415
+Thu 17 Apr 2025 10:46:34 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 4360/59068
+Thu 17 Apr 2025 10:46:34 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 9222/2359
+Thu 17 Apr 2025 10:46:34 EDT CONNECT from 127.0.0.1 to ads-img.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 10:46:43 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3519/21963
+Thu 17 Apr 2025 10:46:48 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 5612/23216
+Thu 17 Apr 2025 10:46:50 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 5194/1537
+Thu 17 Apr 2025 10:46:50 EDT CONNECT from 127.0.0.1 to fonts.googleapis.com:443, Data Transferred 2498/8430
+Thu 17 Apr 2025 10:46:50 EDT CONNECT from 127.0.0.1 to fonts.gstatic.com:443, Data Transferred 2488/20861
+Thu 17 Apr 2025 10:46:50 EDT CONNECT from 127.0.0.1 to cdnjs.cloudflare.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 10:46:51 EDT CONNECT from 127.0.0.1 to clients1.google.com:443, Data Transferred 2456/8500
+Thu 17 Apr 2025 10:46:51 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 3277/112034
+Thu 17 Apr 2025 10:46:51 EDT CONNECT from 127.0.0.1 to cse.google.com:443, Data Transferred 2537/65466
+Thu 17 Apr 2025 10:46:52 EDT CONNECT from 127.0.0.1 to platform-api.sharethis.com:443, Data Transferred 2368/52708
+Thu 17 Apr 2025 10:46:52 EDT CONNECT from 127.0.0.1 to l.sharethis.com:443, Data Transferred 2850/4869
+Thu 17 Apr 2025 10:46:52 EDT CONNECT from 127.0.0.1 to ece.rutgers.edu:443, Data Transferred 7711/45345558
+Thu 17 Apr 2025 10:46:53 EDT CONNECT from 127.0.0.1 to buttons-config.sharethis.com:443, Data Transferred 2382/5796
+Thu 17 Apr 2025 10:48:36 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 4699/4466
+Thu 17 Apr 2025 10:48:48 EDT CONNECT from 127.0.0.1 to cse.google.com:443, Data Transferred 2963/5295
+Thu 17 Apr 2025 10:48:49 EDT CONNECT from 127.0.0.1 to clients1.google.com:443, Data Transferred 3023/2082
+Thu 17 Apr 2025 10:48:49 EDT CONNECT from 127.0.0.1 to l.sharethis.com:443, Data Transferred 2862/4869
+Thu 17 Apr 2025 10:48:49 EDT CONNECT from 127.0.0.1 to buttons-config.sharethis.com:443, Data Transferred 2433/5588
+Thu 17 Apr 2025 10:48:49 EDT CONNECT from 127.0.0.1 to ece.rutgers.edu:443, Data Transferred 5989/28703094
+Thu 17 Apr 2025 10:51:23 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 2413/4837
+Thu 17 Apr 2025 10:51:41 EDT: 127.0.0.1 http://www.example.com/favicon.ico 1643
+Thu 17 Apr 2025 10:51:49 EDT CONNECT from 127.0.0.1 to lh3.googleusercontent.com:443, Data Transferred 2488/17560
+Thu 17 Apr 2025 10:51:49 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 9413/1920
+Thu 17 Apr 2025 10:51:49 EDT CONNECT from 127.0.0.1 to lh3.googleusercontent.com:443, Data Transferred 2512/18622
+Thu 17 Apr 2025 10:51:49 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 13290/3273
+Thu 17 Apr 2025 10:51:49 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 5239/1554
+Thu 17 Apr 2025 10:51:51 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 4015/7181
+Thu 17 Apr 2025 10:51:58 EDT CONNECT from 127.0.0.1 to mog.dog:443, Data Transferred 2516/3831
+Thu 17 Apr 2025 10:51:58 EDT CONNECT from 127.0.0.1 to mog.dog:443, Data Transferred 2523/10762102
+Thu 17 Apr 2025 10:51:58 EDT CONNECT from 127.0.0.1 to mog.dog:443, Data Transferred 2731/57746
+Thu 17 Apr 2025 10:51:58 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 5192/1419
+Thu 17 Apr 2025 10:51:58 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3512/21965
+Thu 17 Apr 2025 10:53:58 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3825/1152
+Thu 17 Apr 2025 10:53:58 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 6099/1419
+Thu 17 Apr 2025 10:53:59 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 6983/2108
+Thu 17 Apr 2025 10:54:01 EDT CONNECT from 127.0.0.1 to lh3.googleusercontent.com:443, Data Transferred 3167/14699
+Thu 17 Apr 2025 10:54:04 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 4995/17743
+Thu 17 Apr 2025 10:54:04 EDT CONNECT from 127.0.0.1 to encrypted-tbn0.gstatic.com:443, Data Transferred 3704/70741
+Thu 17 Apr 2025 10:54:06 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 5199/1452
+Thu 17 Apr 2025 10:54:06 EDT CONNECT from 127.0.0.1 to www.googleadservices.com:443, Data Transferred 2532/6306
+Thu 17 Apr 2025 10:54:06 EDT CONNECT from 127.0.0.1 to csp.withgoogle.com:443, Data Transferred 3654/3229
+Thu 17 Apr 2025 10:54:06 EDT CONNECT from 127.0.0.1 to ogads-pa.clients6.google.com:443, Data Transferred 3510/2591
+Thu 17 Apr 2025 10:54:06 EDT CONNECT from 127.0.0.1 to id.google.com:443, Data Transferred 2897/9524
+Thu 17 Apr 2025 10:54:07 EDT CONNECT from 127.0.0.1 to play.google.com:443, Data Transferred 2511/8765
+Thu 17 Apr 2025 10:54:08 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3546/1092
+Thu 17 Apr 2025 10:54:08 EDT CONNECT from 127.0.0.1 to play.google.com:443, Data Transferred 3033/9114
+Thu 17 Apr 2025 10:54:09 EDT CONNECT from 127.0.0.1 to www.gstatic.com:443, Data Transferred 27271/889537
+Thu 17 Apr 2025 10:54:11 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 69650/1065481
+Thu 17 Apr 2025 10:54:33 EDT CONNECT from 127.0.0.1 to open.spotifycdn.com:443, Data Transferred 2465/83998
+Thu 17 Apr 2025 10:54:33 EDT CONNECT from 127.0.0.1 to www.googleoptimize.com:443, Data Transferred 2411/90239
+Thu 17 Apr 2025 10:54:33 EDT CONNECT from 127.0.0.1 to encore.scdn.co:443, Data Transferred 2548/387755
+Thu 17 Apr 2025 10:54:33 EDT CONNECT from 127.0.0.1 to open.spotifycdn.com:443, Data Transferred 2437/6203
+Thu 17 Apr 2025 10:54:33 EDT CONNECT from 127.0.0.1 to open.spotifycdn.com:443, Data Transferred 2442/1042066
+Thu 17 Apr 2025 10:54:33 EDT CONNECT from 127.0.0.1 to encore.scdn.co:443, Data Transferred 2542/46100
+Thu 17 Apr 2025 10:54:33 EDT CONNECT from 127.0.0.1 to open.spotifycdn.com:443, Data Transferred 2447/168859
+Thu 17 Apr 2025 10:54:33 EDT CONNECT from 127.0.0.1 to open.spotifycdn.com:443, Data Transferred 2426/7129
+Thu 17 Apr 2025 10:54:34 EDT CONNECT from 127.0.0.1 to apresolve.spotify.com:443, Data Transferred 2466/4656
+Thu 17 Apr 2025 10:54:34 EDT CONNECT from 127.0.0.1 to clienttoken.spotify.com:443, Data Transferred 2960/5152
+Thu 17 Apr 2025 10:54:34 EDT CONNECT from 127.0.0.1 to www.gstatic.com:443, Data Transferred 2446/231815
+Thu 17 Apr 2025 10:54:34 EDT CONNECT from 127.0.0.1 to open.spotify.com:443, Data Transferred 3569/27512
+Thu 17 Apr 2025 10:54:35 EDT CONNECT from 127.0.0.1 to o22381.ingest.sentry.io:443, Data Transferred 3036/4537
+Thu 17 Apr 2025 10:54:35 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 5667/50640
+Thu 17 Apr 2025 10:54:35 EDT CONNECT from 127.0.0.1 to fonts.gstatic.com:443, Data Transferred 2564/37979
+Thu 17 Apr 2025 10:54:35 EDT CONNECT from 127.0.0.1 to apresolve.spotify.com:443, Data Transferred 2557/4947
+Thu 17 Apr 2025 10:54:35 EDT CONNECT from 127.0.0.1 to www.gstatic.com:443, Data Transferred 3552/275732
+Thu 17 Apr 2025 10:54:36 EDT CONNECT from 127.0.0.1 to api-partner.spotify.com:443, Data Transferred 2827/4586
+Thu 17 Apr 2025 10:54:37 EDT CONNECT from 127.0.0.1 to open.spotifycdn.com:443, Data Transferred 7548/729159
+Thu 17 Apr 2025 10:54:37 EDT CONNECT from 127.0.0.1 to spclient.wg.spotify.com:443, Data Transferred 3393/5870
+Thu 17 Apr 2025 10:54:37 EDT CONNECT from 127.0.0.1 to geolocation.onetrust.com:443, Data Transferred 2408/4382
+Thu 17 Apr 2025 10:54:37 EDT CONNECT from 127.0.0.1 to encore.scdn.co:443, Data Transferred 2657/425218
+Thu 17 Apr 2025 10:54:37 EDT CONNECT from 127.0.0.1 to i.scdn.co:443, Data Transferred 2463/59322
+Thu 17 Apr 2025 10:54:37 EDT CONNECT from 127.0.0.1 to www.spotify.com:443, Data Transferred 2859/6367
+Thu 17 Apr 2025 10:54:38 EDT CONNECT from 127.0.0.1 to www.fastly-insights.com:443, Data Transferred 2442/6531
+Thu 17 Apr 2025 10:54:38 EDT CONNECT from 127.0.0.1 to static.ads-twitter.com:443, Data Transferred 2356/21997
+Thu 17 Apr 2025 10:54:38 EDT CONNECT from 127.0.0.1 to pixel-static.spotify.com:443, Data Transferred 2974/6694
+Thu 17 Apr 2025 10:54:38 EDT CONNECT from 127.0.0.1 to pixel.spotify.com:443, Data Transferred 3112/4832
+Thu 17 Apr 2025 10:54:38 EDT CONNECT from 127.0.0.1 to cdn.cookielaw.org:443, Data Transferred 2857/53626
+Thu 17 Apr 2025 10:54:38 EDT CONNECT from 127.0.0.1 to sb.scorecardresearch.com:443, Data Transferred 2961/6869
+Thu 17 Apr 2025 10:54:38 EDT CONNECT from 127.0.0.1 to cdn.cookielaw.org:443, Data Transferred 2705/140095
+Thu 17 Apr 2025 10:54:39 EDT CONNECT from 127.0.0.1 to spotify.demdex.net:443, Data Transferred 2466/5422
+Thu 17 Apr 2025 10:54:39 EDT CONNECT from 127.0.0.1 to pippio.com:443, Data Transferred 2450/5758
+Thu 17 Apr 2025 10:54:39 EDT CONNECT from 127.0.0.1 to t.co:443, Data Transferred 2742/4904
+Thu 17 Apr 2025 10:54:39 EDT CONNECT from 127.0.0.1 to api-partner.spotify.com:443, Data Transferred 5834/11441
+Thu 17 Apr 2025 10:54:39 EDT CONNECT from 127.0.0.1 to idsync.rlcdn.com:443, Data Transferred 2686/7492
+Thu 17 Apr 2025 10:54:39 EDT CONNECT from 127.0.0.1 to analytics.twitter.com:443, Data Transferred 2771/4706
+Thu 17 Apr 2025 10:54:39 EDT CONNECT from 127.0.0.1 to www.googletagmanager.com:443, Data Transferred 2789/392374
+Thu 17 Apr 2025 10:54:40 EDT CONNECT from 127.0.0.1 to stats.g.doubleclick.net:443, Data Transferred 2649/6669
+Thu 17 Apr 2025 10:54:40 EDT CONNECT from 127.0.0.1 to analytics.google.com:443, Data Transferred 3474/8985
+Thu 17 Apr 2025 10:54:42 EDT CONNECT from 127.0.0.1 to apresolve.spotify.com:443, Data Transferred 3002/1376
+Thu 17 Apr 2025 10:54:42 EDT CONNECT from 127.0.0.1 to gue1-spclient.spotify.com:443, Data Transferred 32522/10181
+Thu 17 Apr 2025 10:54:43 EDT CONNECT from 127.0.0.1 to www.google-analytics.com:443, Data Transferred 6347/29598
+Thu 17 Apr 2025 10:54:43 EDT CONNECT from 127.0.0.1 to o22381.ingest.sentry.io:443, Data Transferred 3331/1213
+Thu 17 Apr 2025 10:54:44 EDT CONNECT from 127.0.0.1 to safebrowsing.googleapis.com:443, Data Transferred 3221/2529
+Thu 17 Apr 2025 10:54:48 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 5525/3371
+Thu 17 Apr 2025 10:54:50 EDT CONNECT from 127.0.0.1 to open.spotifycdn.com:443, Data Transferred 21958/3410410
+Thu 17 Apr 2025 10:54:50 EDT CONNECT from 127.0.0.1 to safebrowsing.googleapis.com:443, Data Transferred 3221/2529
+Thu 17 Apr 2025 10:56:06 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 2097/3729
+Thu 17 Apr 2025 10:56:06 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 10:56:24 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 3180/12054
+Thu 17 Apr 2025 14:38:17 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 4011/4289
+Thu 17 Apr 2025 14:38:17 EDT CONNECT from 127.0.0.1 to ads-img.mozilla.org:443, Data Transferred 3166/17229
+Thu 17 Apr 2025 14:38:17 EDT CONNECT from 127.0.0.1 to firefox.settings.services.mozilla.com:443, Data Transferred 2421/4599
+Thu 17 Apr 2025 14:38:17 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 5464/5663
+Thu 17 Apr 2025 14:38:18 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 1899/5187
+Thu 17 Apr 2025 14:38:19 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2888/8495
+Thu 17 Apr 2025 14:38:21 EDT CONNECT from 127.0.0.1 to clients1.google.com:443, Data Transferred 2456/8476
+Thu 17 Apr 2025 14:38:21 EDT CONNECT from 127.0.0.1 to platform-api.sharethis.com:443, Data Transferred 2401/5612
+Thu 17 Apr 2025 14:38:21 EDT CONNECT from 127.0.0.1 to fonts.gstatic.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 14:38:21 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2449/6038
+Thu 17 Apr 2025 14:38:21 EDT CONNECT from 127.0.0.1 to ece.rutgers.edu:443, Data Transferred 4218/1197633
+Thu 17 Apr 2025 14:38:21 EDT CONNECT from 127.0.0.1 to cse.google.com:443, Data Transferred 2537/65813
+Thu 17 Apr 2025 14:38:21 EDT CONNECT from 127.0.0.1 to l.sharethis.com:443, Data Transferred 2850/4869
+Thu 17 Apr 2025 14:38:21 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 25341/8602
+Thu 17 Apr 2025 14:38:22 EDT CONNECT from 127.0.0.1 to buttons-config.sharethis.com:443, Data Transferred 2433/5565
+Thu 17 Apr 2025 14:38:26 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3801/14225
+Thu 17 Apr 2025 14:38:44 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 2631/38683
+Thu 17 Apr 2025 14:38:44 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 3099/31606
+Thu 17 Apr 2025 14:39:14 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 24104/5586
+Thu 17 Apr 2025 14:40:12 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 7900/2209
+Thu 17 Apr 2025 14:43:48 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 3180/11212
+Thu 17 Apr 2025 14:48:48 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 2974/1897
+Thu 17 Apr 2025 14:48:48 EDT CONNECT from 127.0.0.1 to ads-img.mozilla.org:443, Data Transferred 3167/9766
+Thu 17 Apr 2025 14:57:13 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 14:57:13 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 2097/3729
+Thu 17 Apr 2025 14:58:48 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 3180/11212
+Thu 17 Apr 2025 15:03:49 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 2973/1896
+Thu 17 Apr 2025 15:06:19 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 4331/5112
+Thu 17 Apr 2025 15:06:45 EDT CONNECT from 127.0.0.1 to cse.google.com:443, Data Transferred 2396/11686
+Thu 17 Apr 2025 15:06:45 EDT CONNECT from 127.0.0.1 to ece.rutgers.edu:443, Data Transferred 2847/5309
+Thu 17 Apr 2025 15:06:46 EDT CONNECT from 127.0.0.1 to platform-api.sharethis.com:443, Data Transferred 2401/5612
+Thu 17 Apr 2025 15:06:46 EDT CONNECT from 127.0.0.1 to l.sharethis.com:443, Data Transferred 2850/4869
+Thu 17 Apr 2025 15:06:46 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2449/6038
+Thu 17 Apr 2025 15:06:46 EDT CONNECT from 127.0.0.1 to clients1.google.com:443, Data Transferred 2456/8475
+Thu 17 Apr 2025 15:06:46 EDT CONNECT from 127.0.0.1 to buttons-config.sharethis.com:443, Data Transferred 2433/5592
+Thu 17 Apr 2025 15:08:49 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 3052/34808
+Thu 17 Apr 2025 15:08:49 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 3099/20622
+Thu 17 Apr 2025 15:13:49 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 3180/11240
+Thu 17 Apr 2025 15:18:50 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 2974/1896
+Thu 17 Apr 2025 15:21:44 EDT CONNECT from 127.0.0.1 to www.example.com:445, Data Transferred 0/0
+Thu 17 Apr 2025 17:39:44 EDT: 127.0.0.1 http://detectportal.firefox.com/success.txt?ipv4 235
+Thu 17 Apr 2025 17:39:46 EDT: 127.0.0.1 http://detectportal.firefox.com/canonical.html 317
+Thu 17 Apr 2025 17:39:46 EDT: 127.0.0.1 http://detectportal.firefox.com/success.txt?ipv4 235
+Thu 17 Apr 2025 17:39:48 EDT: 127.0.0.1 http://detectportal.firefox.com/canonical.html 317
+Thu 17 Apr 2025 17:39:48 EDT: 127.0.0.1 http://detectportal.firefox.com/canonical.html 317
+Thu 17 Apr 2025 17:39:48 EDT: 127.0.0.1 http://detectportal.firefox.com/canonical.html 317
+Thu 17 Apr 2025 17:39:48 EDT: 127.0.0.1 http://detectportal.firefox.com/success.txt?ipv4 235
+Thu 17 Apr 2025 17:39:53 EDT CONNECT from 127.0.0.1 to safebrowsing.googleapis.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 17:39:53 EDT CONNECT from 127.0.0.1 to doh.xfinity.com:443, Data Transferred 2446/6904
+Thu 17 Apr 2025 17:39:53 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 17:39:53 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 17:39:54 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 2413/4810
+Thu 17 Apr 2025 17:39:54 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 17:39:54 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 4373/4409
+Thu 17 Apr 2025 17:39:54 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 18:09:50 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 2097/3729
+Thu 17 Apr 2025 18:09:50 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 2414/4810
+Thu 17 Apr 2025 18:09:50 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 18:39:50 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 2413/4810
+Thu 17 Apr 2025 18:39:50 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 2097/3729
+Thu 17 Apr 2025 18:39:50 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 18:39:50 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 4546/4561
+Thu 17 Apr 2025 19:06:55 EDT CONNECT from 127.0.0.1 to aus5.mozilla.org:443, Data Transferred 815/4682
+Thu 17 Apr 2025 19:06:56 EDT CONNECT from 127.0.0.1 to normandy.cdn.mozilla.net:443, Data Transferred 2396/4127
+Thu 17 Apr 2025 19:06:56 EDT CONNECT from 127.0.0.1 to classify-client.services.mozilla.com:443, Data Transferred 2375/4069
+Thu 17 Apr 2025 19:09:50 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 2413/4810
+Thu 17 Apr 2025 19:09:51 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 19:09:51 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 2097/3729
+Thu 17 Apr 2025 19:41:29 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 2413/4810
+Thu 17 Apr 2025 19:41:29 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 2097/3729
+Thu 17 Apr 2025 19:41:29 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 20:38:50 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 2097/3729
+Thu 17 Apr 2025 20:38:50 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 20:38:50 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 2413/4810
+Thu 17 Apr 2025 21:08:50 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 2097/3729
+Thu 17 Apr 2025 21:08:50 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 2413/4811
+Thu 17 Apr 2025 21:08:50 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 21:38:51 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 21:38:51 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 2414/4811
+Thu 17 Apr 2025 21:38:51 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 2097/3729
+Thu 17 Apr 2025 22:10:15 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:11:20 EDT CONNECT from 127.0.0.1 to www.example.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:12:12 EDT: 127.0.0.1 http://www.example.com/ 245
+Thu 17 Apr 2025 22:12:13 EDT: 127.0.0.1 http://www.example.com/favicon.ico 1643
+Thu 17 Apr 2025 22:13:11 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:13:11 EDT CONNECT from 127.0.0.1 to firefox-settings-attachments.cdn.mozilla.net:443, Data Transferred 2602/3858
+Thu 17 Apr 2025 22:13:33 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:48 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:48 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:48 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:48 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:48 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:49 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:49 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:49 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:49 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:49 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:49 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:52 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:52 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:52 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:52 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:53 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:53 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:53 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:53 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:53 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:53 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:53 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:53 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:54 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:54 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:54 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:54 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:54 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:54 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:56 EDT CONNECT from 127.0.0.1 to www.example.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:59 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:59 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:59 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:59 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:59 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:59 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:16:59 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:02 EDT CONNECT from 127.0.0.1 to www.example.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:04 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:04 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:04 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:04 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:04 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:04 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:04 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:04 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:09 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:09 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:09 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:09 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:09 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:09 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:09 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:09 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:09 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:09 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:09 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:09 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:10 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:10 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:10 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:11 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:11 EDT CONNECT from 127.0.0.1 to doh.xfinity.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:11 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:14 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:14 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:14 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:14 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:14 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:14 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:14 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:15 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:15 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:15 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:15 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:16 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:19 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:19 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:20 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:20 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:20 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:20 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:22 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:24 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:24 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:25 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:25 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:25 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:25 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:27 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:29 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:30 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:30 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:32 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:34 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:35 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:35 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:35 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:37 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:17:40 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:18:04 EDT CONNECT from 127.0.0.1 to www.example.com:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:19:12 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 3598/5372
+Thu 17 Apr 2025 22:19:12 EDT CONNECT from 127.0.0.1 to ads-img.mozilla.org:443, Data Transferred 2669/5282
+Thu 17 Apr 2025 22:19:12 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 2708/3884
+Thu 17 Apr 2025 22:19:13 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2346/6759
+Thu 17 Apr 2025 22:19:15 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 21252/7978
+Thu 17 Apr 2025 22:19:15 EDT CONNECT from 127.0.0.1 to www.example.com:443, Data Transferred 2674/5478
+Thu 17 Apr 2025 22:19:19 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3270/978
+Thu 17 Apr 2025 22:19:26 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 6082/1376
+Thu 17 Apr 2025 22:19:26 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 5194/1655
+Thu 17 Apr 2025 22:19:26 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 6970/2030
+Thu 17 Apr 2025 22:19:30 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2383/6740
+Thu 17 Apr 2025 22:19:33 EDT CONNECT from 127.0.0.1 to doh.xfinity.com:443, Data Transferred 2446/6944
+Thu 17 Apr 2025 22:19:36 EDT CONNECT from 127.0.0.1 to www.imdb.com:443, Data Transferred 2403/7286
+Thu 17 Apr 2025 22:19:37 EDT CONNECT from 127.0.0.1 to cms.analytics.yahoo.com:443, Data Transferred 3040/1020
+Thu 17 Apr 2025 22:19:37 EDT CONNECT from 127.0.0.1 to usersync.samplicio.us:443, Data Transferred 2442/4851
+Thu 17 Apr 2025 22:19:37 EDT CONNECT from 127.0.0.1 to ads.samba.tv:443, Data Transferred 2519/4870
+Thu 17 Apr 2025 22:19:37 EDT CONNECT from 127.0.0.1 to c1.adform.net:443, Data Transferred 2646/6785
+Thu 17 Apr 2025 22:19:37 EDT CONNECT from 127.0.0.1 to dpm.demdex.net:443, Data Transferred 2663/6033
+Thu 17 Apr 2025 22:19:37 EDT CONNECT from 127.0.0.1 to image6.pubmatic.com:443, Data Transferred 2642/4980
+Thu 17 Apr 2025 22:19:37 EDT CONNECT from 127.0.0.1 to us-u.openx.net:443, Data Transferred 3299/1503
+Thu 17 Apr 2025 22:19:37 EDT CONNECT from 127.0.0.1 to ssum-sec.casalemedia.com:443, Data Transferred 2606/5421
+Thu 17 Apr 2025 22:19:37 EDT CONNECT from 127.0.0.1 to loadus.exelator.com:443, Data Transferred 2591/5462
+Thu 17 Apr 2025 22:19:37 EDT CONNECT from 127.0.0.1 to uipglob.semasio.net:443, Data Transferred 3111/4332
+Thu 17 Apr 2025 22:19:37 EDT CONNECT from 127.0.0.1 to s.amazon-adsystem.com:443, Data Transferred 4525/11487
+Thu 17 Apr 2025 22:19:37 EDT CONNECT from 127.0.0.1 to s.amazon-adsystem.com:443, Data Transferred 2646/824
+Thu 17 Apr 2025 22:19:37 EDT CONNECT from 127.0.0.1 to ups.analytics.yahoo.com:443, Data Transferred 3151/1261
+Thu 17 Apr 2025 22:19:37 EDT CONNECT from 127.0.0.1 to cm.g.doubleclick.net:443, Data Transferred 3270/3703
+Thu 17 Apr 2025 22:19:37 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3900/1208
+Thu 17 Apr 2025 22:19:37 EDT CONNECT from 127.0.0.1 to completion.amazon.com:443, Data Transferred 2901/6637
+Thu 17 Apr 2025 22:19:38 EDT CONNECT from 127.0.0.1 to ib.adnxs.com:443, Data Transferred 2762/4577
+Thu 17 Apr 2025 22:19:38 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 10206/230162
+Thu 17 Apr 2025 22:19:38 EDT CONNECT from 127.0.0.1 to cookie-matching.mediarithmics.com:443, Data Transferred 3013/5664
+Thu 17 Apr 2025 22:19:38 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 5386/2262
+Thu 17 Apr 2025 22:19:38 EDT CONNECT from 127.0.0.1 to aes.us-east.ono.axp.amazon-adsystem.com:443, Data Transferred 3098/5814
+Thu 17 Apr 2025 22:19:38 EDT CONNECT from 127.0.0.1 to aes.us-east.ono.axp.amazon-adsystem.com:443, Data Transferred 3098/5814
+Thu 17 Apr 2025 22:19:38 EDT CONNECT from 127.0.0.1 to aes.us-east.ono.axp.amazon-adsystem.com:443, Data Transferred 3370/505
+Thu 17 Apr 2025 22:19:39 EDT CONNECT from 127.0.0.1 to m.media-amazon.com:443, Data Transferred 16941/848982
+Thu 17 Apr 2025 22:19:39 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 6242/8759
+Thu 17 Apr 2025 22:19:39 EDT CONNECT from 127.0.0.1 to unagi-na.amazon.com:443, Data Transferred 6271/7432
+Thu 17 Apr 2025 22:19:40 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 190552/7007
+Thu 17 Apr 2025 22:19:44 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 2650/7007
+Thu 17 Apr 2025 22:19:47 EDT CONNECT from 127.0.0.1 to unagi-na.amazon.com:443, Data Transferred 4852/7007
+Thu 17 Apr 2025 22:19:50 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 3096/6413
+Thu 17 Apr 2025 22:19:51 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 36777/18730
+Thu 17 Apr 2025 22:19:52 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 244763/7007
+Thu 17 Apr 2025 22:19:58 EDT CONNECT from 127.0.0.1 to m.media-amazon.com:443, Data Transferred 2434/395919
+Thu 17 Apr 2025 22:20:01 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 5336/4973
+Thu 17 Apr 2025 22:20:02 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 5635/939
+Thu 17 Apr 2025 22:20:12 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 7869/1599
+Thu 17 Apr 2025 22:20:13 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 4199/4972
+Thu 17 Apr 2025 22:20:16 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 2414/4810
+Thu 17 Apr 2025 22:20:16 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 3099/30529
+Thu 17 Apr 2025 22:20:28 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 5513/7007
+Thu 17 Apr 2025 22:20:45 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 7119/5429
+Thu 17 Apr 2025 22:20:45 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 3116/6392
+Thu 17 Apr 2025 22:20:46 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 2681/6773
+Thu 17 Apr 2025 22:20:49 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 18651/7623
+Thu 17 Apr 2025 22:20:59 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 3246/4973
+Thu 17 Apr 2025 22:21:09 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 6851/5590
+Thu 17 Apr 2025 22:21:09 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 3374/6985
+Thu 17 Apr 2025 22:21:09 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 23005/4041
+Thu 17 Apr 2025 22:21:12 EDT CONNECT from 127.0.0.1 to www.example.com:443, Data Transferred 3282/2405
+Thu 17 Apr 2025 22:21:14 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 4865/4973
+Thu 17 Apr 2025 22:21:33 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 6082/1376
+Thu 17 Apr 2025 22:21:34 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 4426/64504
+Thu 17 Apr 2025 22:21:34 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2828/8473
+Thu 17 Apr 2025 22:21:38 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 9282/2427
+Thu 17 Apr 2025 22:21:38 EDT CONNECT from 127.0.0.1 to ece.rutgers.edu:443, Data Transferred 4094/190888
+Thu 17 Apr 2025 22:21:38 EDT CONNECT from 127.0.0.1 to cse.google.com:443, Data Transferred 2518/65334
+Thu 17 Apr 2025 22:21:38 EDT CONNECT from 127.0.0.1 to platform-api.sharethis.com:443, Data Transferred 2368/52685
+Thu 17 Apr 2025 22:21:38 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2449/6037
+Thu 17 Apr 2025 22:21:39 EDT CONNECT from 127.0.0.1 to l.sharethis.com:443, Data Transferred 2850/4869
+Thu 17 Apr 2025 22:21:39 EDT CONNECT from 127.0.0.1 to clients1.google.com:443, Data Transferred 2456/8476
+Thu 17 Apr 2025 22:21:39 EDT CONNECT from 127.0.0.1 to buttons-config.sharethis.com:443, Data Transferred 2433/5567
+Thu 17 Apr 2025 22:21:43 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3881/20276
+Thu 17 Apr 2025 22:21:45 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 5198/4973
+Thu 17 Apr 2025 22:22:16 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 4199/4973
+Thu 17 Apr 2025 22:22:24 EDT: 127.0.0.1 http://www.example.com/favicon.ico 1643
+Thu 17 Apr 2025 22:22:27 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 6051/1376
+Thu 17 Apr 2025 22:22:28 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2790/8366
+Thu 17 Apr 2025 22:22:28 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 4555/1401
+Thu 17 Apr 2025 22:22:29 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 9276/2390
+Thu 17 Apr 2025 22:23:07 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:23:07 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:23:07 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Thu 17 Apr 2025 22:29:46 EDT CONNECT from 127.0.0.1 to firefox.settings.services.mozilla.com:443, Data Transferred 2643/4439
+Thu 17 Apr 2025 22:29:46 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 2952/3961
+Fri 18 Apr 2025 09:52:26 EDT: 127.0.0.1 http://detectportal.firefox.com/canonical.html 317
+Fri 18 Apr 2025 09:52:26 EDT: 127.0.0.1 http://detectportal.firefox.com/success.txt?ipv4 235
+Fri 18 Apr 2025 09:52:34 EDT CONNECT from 127.0.0.1 to merino.services.mozilla.com:443, Data Transferred 2414/4838
+Fri 18 Apr 2025 09:52:35 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 6051/47219
+Fri 18 Apr 2025 09:52:35 EDT CONNECT from 127.0.0.1 to ads-img.mozilla.org:443, Data Transferred 2671/5284
+Fri 18 Apr 2025 09:52:35 EDT CONNECT from 127.0.0.1 to firefox.settings.services.mozilla.com:443, Data Transferred 2459/3946
+Fri 18 Apr 2025 09:52:35 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3871/93176
+Fri 18 Apr 2025 09:52:36 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2338/7293
+Fri 18 Apr 2025 09:52:36 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 30643/8767
+Fri 18 Apr 2025 09:52:41 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 3907/1289
+Fri 18 Apr 2025 09:52:41 EDT CONNECT from 127.0.0.1 to images-na.ssl-images-amazon.com:443, Data Transferred 8299/283296
+Fri 18 Apr 2025 09:52:41 EDT CONNECT from 127.0.0.1 to completion.amazon.com:443, Data Transferred 2901/6637
+Fri 18 Apr 2025 09:52:41 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 7468/188663
+Fri 18 Apr 2025 09:52:41 EDT CONNECT from 127.0.0.1 to aes.us-east.ono.axp.amazon-adsystem.com:443, Data Transferred 4156/5948
+Fri 18 Apr 2025 09:52:43 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 3178/4973
+Fri 18 Apr 2025 09:52:43 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 5875/8712
+Fri 18 Apr 2025 09:52:44 EDT CONNECT from 127.0.0.1 to unagi-na.amazon.com:443, Data Transferred 4429/7432
+Fri 18 Apr 2025 09:52:45 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 3224/7701
+Fri 18 Apr 2025 09:52:46 EDT: 127.0.0.1 http://www.example.com/ 973
+Fri 18 Apr 2025 09:52:46 EDT: 127.0.0.1 http://www.example.com/favicon.ico 1394
+Fri 18 Apr 2025 09:52:53 EDT CONNECT from 127.0.0.1 to m.media-amazon.com:443, Data Transferred 25113/2131677
+Fri 18 Apr 2025 09:53:25 EDT: 127.0.0.1 http://detectportal.firefox.com/canonical.html 317
+Fri 18 Apr 2025 09:53:25 EDT: 127.0.0.1 http://detectportal.firefox.com/success.txt?ipv4 235
+Fri 18 Apr 2025 09:53:42 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 4908/40200
+Fri 18 Apr 2025 09:53:43 EDT CONNECT from 127.0.0.1 to prod.ohttp-gateway.prod.webservices.mozgcp.net:443, Data Transferred 2451/4037
+Fri 18 Apr 2025 09:53:44 EDT CONNECT from 127.0.0.1 to mozilla-ohttp.fastly-edge.com:443, Data Transferred 3174/4773
+Fri 18 Apr 2025 09:53:46 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 69504/5069
+Fri 18 Apr 2025 09:53:49 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 1024/0
+Fri 18 Apr 2025 09:53:49 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 13231/6836
+Fri 18 Apr 2025 09:53:52 EDT CONNECT from 127.0.0.1 to pbs.yahoo.com:443, Data Transferred 2539/6855
+Fri 18 Apr 2025 09:53:52 EDT CONNECT from 127.0.0.1 to geo.ads.audio.thisisdax.com:443, Data Transferred 2580/3979
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to www.imdb.com:443, Data Transferred 2405/7314
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to jadserve.postrelease.com:443, Data Transferred 885/0
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to dsum-sec.casalemedia.com:443, Data Transferred 1024/0
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to aa.agkn.com:443, Data Transferred 0/0
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to cookie-matching.mediarithmics.com:443, Data Transferred 2567/5177
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to ib.adnxs.com:443, Data Transferred 2743/4670
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to rtb-csync.smartadserver.com:443, Data Transferred 2473/4522
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to match.360yield.com:443, Data Transferred 2721/6549
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to odr.mookie1.com:443, Data Transferred 2510/7303
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to cms.analytics.yahoo.com:443, Data Transferred 2421/6328
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to ads.samba.tv:443, Data Transferred 0/0
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to us-u.openx.net:443, Data Transferred 3106/4962
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to spl.zeotap.com:443, Data Transferred 0/0
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to sync.taboola.com:443, Data Transferred 0/0
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to sync.rfp.fout.jp:443, Data Transferred 2466/5280
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to x.bidswitch.net:443, Data Transferred 2686/4599
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to sync.taboola.com:443, Data Transferred 1221/3787
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to ups.analytics.yahoo.com:443, Data Transferred 2532/5628
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to image6.pubmatic.com:443, Data Transferred 2642/4980
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to ads.stickyadstv.com:443, Data Transferred 2505/5100
+Fri 18 Apr 2025 09:53:53 EDT CONNECT from 127.0.0.1 to cm.g.doubleclick.net:443, Data Transferred 1410/6492
+Fri 18 Apr 2025 09:53:54 EDT CONNECT from 127.0.0.1 to sb.scorecardresearch.com:443, Data Transferred 2616/6641
+Fri 18 Apr 2025 09:53:54 EDT CONNECT from 127.0.0.1 to eb2.3lift.com:443, Data Transferred 2685/5367
+Fri 18 Apr 2025 09:53:57 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 4447/7961
+Fri 18 Apr 2025 09:53:58 EDT CONNECT from 127.0.0.1 to spl.zeotap.com:443, Data Transferred 1219/4328
+Fri 18 Apr 2025 09:53:58 EDT CONNECT from 127.0.0.1 to s.amazon-adsystem.com:443, Data Transferred 10777/24016
+Fri 18 Apr 2025 09:54:05 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 15113/8899
+Fri 18 Apr 2025 09:54:05 EDT CONNECT from 127.0.0.1 to pixel.rubiconproject.com:443, Data Transferred 0/0
+Fri 18 Apr 2025 09:54:06 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 6050/1376
+Fri 18 Apr 2025 09:54:09 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 4395/8972
+Fri 18 Apr 2025 09:54:11 EDT CONNECT from 127.0.0.1 to yahoo.com:443, Data Transferred 2791/5159
+Fri 18 Apr 2025 09:54:26 EDT: 127.0.0.1 http://detectportal.firefox.com/canonical.html 317
+Fri 18 Apr 2025 09:54:26 EDT: 127.0.0.1 http://detectportal.firefox.com/success.txt?ipv4 235
+Fri 18 Apr 2025 09:54:30 EDT CONNECT from 127.0.0.1 to s.yimg.com:443, Data Transferred 2542/12342
+Fri 18 Apr 2025 09:54:32 EDT CONNECT from 127.0.0.1 to ncp-gw-frontpage.media.yahoo.com:443, Data Transferred 1024/0
+Fri 18 Apr 2025 09:54:32 EDT CONNECT from 127.0.0.1 to consent.cmp.oath.com:443, Data Transferred 2415/4367
+Fri 18 Apr 2025 09:54:33 EDT CONNECT from 127.0.0.1 to guce.yahoo.com:443, Data Transferred 4337/6701
+Fri 18 Apr 2025 09:54:33 EDT CONNECT from 127.0.0.1 to securepubads.g.doubleclick.net:443, Data Transferred 2459/41108
+Fri 18 Apr 2025 09:54:33 EDT CONNECT from 127.0.0.1 to wnsrvbjmeprtfrnfx.ay.delivery:443, Data Transferred 2446/148800
+Fri 18 Apr 2025 09:54:33 EDT CONNECT from 127.0.0.1 to i.clean.gg:443, Data Transferred 3235/5578
+Fri 18 Apr 2025 09:54:34 EDT CONNECT from 127.0.0.1 to geo.yahoo.com:443, Data Transferred 3793/5198
+Fri 18 Apr 2025 09:54:35 EDT CONNECT from 127.0.0.1 to s.yimg.com:443, Data Transferred 7416/893648
+Fri 18 Apr 2025 09:54:35 EDT CONNECT from 127.0.0.1 to www.yahoo.com:443, Data Transferred 16311/1017234
+Fri 18 Apr 2025 09:54:37 EDT CONNECT from 127.0.0.1 to c2shb-oao.ssp.yahoo.com:443, Data Transferred 2576/4148
+Fri 18 Apr 2025 09:54:39 EDT CONNECT from 127.0.0.1 to pbs.yahoo.com:443, Data Transferred 2524/6767
+Fri 18 Apr 2025 09:54:39 EDT CONNECT from 127.0.0.1 to noa.yahoo.com:443, Data Transferred 9199/7057
+Fri 18 Apr 2025 09:54:39 EDT CONNECT from 127.0.0.1 to udc.yahoo.com:443, Data Transferred 21694/5556
+Fri 18 Apr 2025 09:54:39 EDT CONNECT from 127.0.0.1 to c2shb-oao.ssp.yahoo.com:443, Data Transferred 147/0
+Fri 18 Apr 2025 09:54:40 EDT CONNECT from 127.0.0.1 to c2shb-oao.ssp.yahoo.com:443, Data Transferred 0/0
+Fri 18 Apr 2025 09:54:42 EDT CONNECT from 127.0.0.1 to cdn.taboola.com:443, Data Transferred 2551/4591
+Fri 18 Apr 2025 09:54:42 EDT CONNECT from 127.0.0.1 to js-sec.indexww.com:443, Data Transferred 2460/4274
+Fri 18 Apr 2025 09:54:42 EDT CONNECT from 127.0.0.1 to eus.rubiconproject.com:443, Data Transferred 2752/16075
+Fri 18 Apr 2025 09:54:43 EDT CONNECT from 127.0.0.1 to token.rubiconproject.com:443, Data Transferred 2454/5416
+Fri 18 Apr 2025 09:54:43 EDT CONNECT from 127.0.0.1 to pbd.yahoo.com:443, Data Transferred 1241/0
+Fri 18 Apr 2025 09:54:44 EDT CONNECT from 127.0.0.1 to qsearch-a.akamaihd.net:443, Data Transferred 2748/4185
+Fri 18 Apr 2025 09:54:48 EDT CONNECT from 127.0.0.1 to s.seedtag.com:443, Data Transferred 1257/5993
+Fri 18 Apr 2025 09:54:49 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 5260/1553
+Fri 18 Apr 2025 09:54:51 EDT CONNECT from 127.0.0.1 to rp.liadm.com:443, Data Transferred 0/0
+Fri 18 Apr 2025 09:54:52 EDT CONNECT from 127.0.0.1 to rp.liadm.com:443, Data Transferred 2897/5409
+Fri 18 Apr 2025 09:54:54 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 22527/4817
+Fri 18 Apr 2025 09:55:49 EDT CONNECT from 127.0.0.1 to noa.yahoo.com:443, Data Transferred 2469/4161
+Fri 18 Apr 2025 09:55:50 EDT CONNECT from 127.0.0.1 to www.yahoo.com:443, Data Transferred 4212/18897
+Fri 18 Apr 2025 09:55:52 EDT CONNECT from 127.0.0.1 to s.yimg.com:443, Data Transferred 2989/45568
+Fri 18 Apr 2025 09:55:52 EDT CONNECT from 127.0.0.1 to sb.scorecardresearch.com:443, Data Transferred 2682/6327
+Fri 18 Apr 2025 09:56:49 EDT CONNECT from 127.0.0.1 to geo.yahoo.com:443, Data Transferred 3796/5197
+Fri 18 Apr 2025 09:58:05 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 6089/1415
+Fri 18 Apr 2025 09:58:05 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 4346/33569
+Fri 18 Apr 2025 09:58:06 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2469/7060
+Fri 18 Apr 2025 09:58:07 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 25167/5267
+Fri 18 Apr 2025 09:58:08 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 4426/7766
+Fri 18 Apr 2025 09:58:08 EDT CONNECT from 127.0.0.1 to aes.us-east.ono.axp.amazon-adsystem.com:443, Data Transferred 3045/5814
+Fri 18 Apr 2025 09:58:08 EDT CONNECT from 127.0.0.1 to completion.amazon.com:443, Data Transferred 2901/6637
+Fri 18 Apr 2025 09:58:09 EDT CONNECT from 127.0.0.1 to m.media-amazon.com:443, Data Transferred 8909/372300
+Fri 18 Apr 2025 09:58:09 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 8867/193423
+Fri 18 Apr 2025 09:58:09 EDT CONNECT from 127.0.0.1 to www.imdb.com:443, Data Transferred 2405/7314
+Fri 18 Apr 2025 09:58:09 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 319049/7623
+Fri 18 Apr 2025 09:58:09 EDT CONNECT from 127.0.0.1 to ssum-sec.casalemedia.com:443, Data Transferred 2608/5450
+Fri 18 Apr 2025 09:58:09 EDT CONNECT from 127.0.0.1 to c1.adform.net:443, Data Transferred 2648/6807
+Fri 18 Apr 2025 09:58:09 EDT CONNECT from 127.0.0.1 to us-u.openx.net:443, Data Transferred 3301/1503
+Fri 18 Apr 2025 09:58:09 EDT CONNECT from 127.0.0.1 to aa.agkn.com:443, Data Transferred 2399/6611
+Fri 18 Apr 2025 09:58:09 EDT CONNECT from 127.0.0.1 to dpm.demdex.net:443, Data Transferred 2664/6034
+Fri 18 Apr 2025 09:58:09 EDT CONNECT from 127.0.0.1 to cm.g.doubleclick.net:443, Data Transferred 1563/7118
+Fri 18 Apr 2025 09:58:09 EDT CONNECT from 127.0.0.1 to s.amazon-adsystem.com:443, Data Transferred 5700/13712
+Fri 18 Apr 2025 09:58:09 EDT CONNECT from 127.0.0.1 to cookie-matching.mediarithmics.com:443, Data Transferred 2881/5463
+Fri 18 Apr 2025 09:58:12 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3332/979
+Fri 18 Apr 2025 09:58:13 EDT CONNECT from 127.0.0.1 to unagi-na.amazon.com:443, Data Transferred 6271/7432
+Fri 18 Apr 2025 09:58:14 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 2851/796
+Fri 18 Apr 2025 09:58:14 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 3562/1055
+Fri 18 Apr 2025 09:58:15 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 16801/10973
+Fri 18 Apr 2025 09:58:17 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 31199/7007
+Fri 18 Apr 2025 09:58:18 EDT CONNECT from 127.0.0.1 to unagi-na.amazon.com:443, Data Transferred 2645/7007
+Fri 18 Apr 2025 09:58:22 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 3096/6489
+Fri 18 Apr 2025 09:58:24 EDT CONNECT from 127.0.0.1 to redirect.prod.experiment.routing.cloudfront.aws.a2z.com:443, Data Transferred 2575/6030
+Fri 18 Apr 2025 09:58:25 EDT CONNECT from 127.0.0.1 to a34b960b2132ac691759cb611c44640c5.profile.qro50-p2.cloudfront.net:443, Data Transferred 2535/5541
+Fri 18 Apr 2025 09:58:30 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 2506/6773
+Fri 18 Apr 2025 09:58:30 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 3200/6793
+Fri 18 Apr 2025 09:58:31 EDT CONNECT from 127.0.0.1 to aes.us-east.ono.axp.amazon-adsystem.com:443, Data Transferred 3099/5814
+Fri 18 Apr 2025 09:58:31 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 26762/8855
+Fri 18 Apr 2025 09:58:32 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 6089/1415
+Fri 18 Apr 2025 09:58:32 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 5217/1635
+Fri 18 Apr 2025 09:58:34 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2793/8443
+Fri 18 Apr 2025 09:58:36 EDT CONNECT from 127.0.0.1 to www.example.com:443, Data Transferred 2610/6158
+Fri 18 Apr 2025 09:58:39 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3330/979
+Fri 18 Apr 2025 09:58:48 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3560/1053
+Fri 18 Apr 2025 09:59:06 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 11501/2597
+Tue 22 Apr 2025 00:25:24 EDT: 127.0.0.1 http://example.com/ 972
+Tue 22 Apr 2025 00:25:50 EDT: 127.0.0.1 http://example.com/ 972
+Tue 22 Apr 2025 00:26:01 EDT: 127.0.0.1 http://portquiz.net:1234/ 1419
+Tue 22 Apr 2025 22:34:50 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 3578/5373
+Tue 22 Apr 2025 22:34:50 EDT CONNECT from 127.0.0.1 to firefox-settings-attachments.cdn.mozilla.net:443, Data Transferred 2578/3859
+Tue 22 Apr 2025 22:34:50 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 2652/3885
+Tue 22 Apr 2025 22:34:52 EDT CONNECT from 127.0.0.1 to images-na.ssl-images-amazon.com:443, Data Transferred 0/0
+Tue 22 Apr 2025 22:34:53 EDT CONNECT from 127.0.0.1 to m.media-amazon.com:443, Data Transferred 1024/0
+Tue 22 Apr 2025 22:34:53 EDT CONNECT from 127.0.0.1 to safebrowsing.googleapis.com:443, Data Transferred 0/0
+Tue 22 Apr 2025 22:34:53 EDT CONNECT from 127.0.0.1 to images-na.ssl-images-amazon.com:443, Data Transferred 9084/262056
+Tue 22 Apr 2025 22:34:54 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 71336/7149
+Tue 22 Apr 2025 22:34:54 EDT CONNECT from 127.0.0.1 to unagi-na.amazon.com:443, Data Transferred 1024/0
+Tue 22 Apr 2025 22:34:54 EDT: 127.0.0.1 http://detectportal.firefox.com/canonical.html 317
+Tue 22 Apr 2025 22:34:54 EDT: 127.0.0.1 http://detectportal.firefox.com/success.txt?ipv4 235
+Tue 22 Apr 2025 22:34:54 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 1024/0
+Tue 22 Apr 2025 22:34:54 EDT CONNECT from 127.0.0.1 to content-signature-2.cdn.mozilla.net:443, Data Transferred 807/3600
+Tue 22 Apr 2025 22:34:55 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 9633/218473
+Tue 22 Apr 2025 22:34:55 EDT CONNECT from 127.0.0.1 to aes.us-east.ono.axp.amazon-adsystem.com:443, Data Transferred 3098/5814
+Tue 22 Apr 2025 22:34:55 EDT CONNECT from 127.0.0.1 to firefox.settings.services.mozilla.com:443, Data Transferred 984/43796
+Tue 22 Apr 2025 22:34:55 EDT CONNECT from 127.0.0.1 to unagi-na.amazon.com:443, Data Transferred 1024/0
+Tue 22 Apr 2025 22:34:57 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 3225/7701
+Tue 22 Apr 2025 22:34:58 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 3391/789
+Tue 22 Apr 2025 22:34:59 EDT CONNECT from 127.0.0.1 to unagi-na.amazon.com:443, Data Transferred 4429/7454
+Tue 22 Apr 2025 22:34:59 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 3926/7746
+Tue 22 Apr 2025 22:35:00 EDT CONNECT from 127.0.0.1 to firefox.settings.services.mozilla.com:443, Data Transferred 1287/0
+Tue 22 Apr 2025 22:35:00 EDT CONNECT from 127.0.0.1 to firefox.settings.services.mozilla.com:443, Data Transferred 1356/12528
+Tue 22 Apr 2025 22:35:03 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 2256/5077
+Tue 22 Apr 2025 22:35:05 EDT CONNECT from 127.0.0.1 to aes.us-east.ono.axp.amazon-adsystem.com:443, Data Transferred 1918/5814
+Tue 22 Apr 2025 22:35:05 EDT CONNECT from 127.0.0.1 to doh.xfinity.com:443, Data Transferred 2446/6904
+Tue 22 Apr 2025 22:35:06 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 16076/3102
+Tue 22 Apr 2025 22:35:14 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3562/2326
+Tue 22 Apr 2025 22:35:14 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 2712/6800
+Tue 22 Apr 2025 22:35:25 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 2097/3729
+Tue 22 Apr 2025 22:35:31 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 4186/1085
+Tue 22 Apr 2025 22:35:32 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 4490/52902
+Tue 22 Apr 2025 22:35:34 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2338/5422
+Tue 22 Apr 2025 22:35:34 EDT: 127.0.0.1 http://www.nvidia.com/ 333
+Tue 22 Apr 2025 22:35:40 EDT CONNECT from 127.0.0.1 to www.nvidia.com:443, Data Transferred 2408/92174
+Tue 22 Apr 2025 22:35:41 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 4020/1207
+Tue 22 Apr 2025 22:35:54 EDT: 127.0.0.1 http://detectportal.firefox.com/canonical.html 317
+Tue 22 Apr 2025 22:35:55 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 5026/1521
+Tue 22 Apr 2025 22:35:55 EDT: 127.0.0.1 http://detectportal.firefox.com/success.txt?ipv4 -1
+Tue 22 Apr 2025 22:35:56 EDT: 127.0.0.1 http://detectportal.firefox.com/success.txt?ipv4 235
+Tue 22 Apr 2025 22:35:58 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 4186/1085
+Tue 22 Apr 2025 22:36:00 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 4559/1380
+Tue 22 Apr 2025 22:36:00 EDT CONNECT from 127.0.0.1 to m.media-amazon.com:443, Data Transferred 0/0
+Tue 22 Apr 2025 22:36:00 EDT CONNECT from 127.0.0.1 to c.amazon-adsystem.com:443, Data Transferred 1024/0
+Tue 22 Apr 2025 22:36:01 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 376128/6391
+Tue 22 Apr 2025 22:36:02 EDT: 127.0.0.1 http://detectportal.firefox.com/canonical.html 317
+Tue 22 Apr 2025 22:36:03 EDT: 127.0.0.1 http://detectportal.firefox.com/success.txt?ipv4 235
+Tue 22 Apr 2025 22:36:03 EDT CONNECT from 127.0.0.1 to x.bidswitch.net:443, Data Transferred 0/0
+Tue 22 Apr 2025 22:36:03 EDT CONNECT from 127.0.0.1 to image2.pubmatic.com:443, Data Transferred 0/0
+Tue 22 Apr 2025 22:36:03 EDT CONNECT from 127.0.0.1 to dpm.demdex.net:443, Data Transferred 0/0
+Tue 22 Apr 2025 22:36:04 EDT CONNECT from 127.0.0.1 to dsum-sec.casalemedia.com:443, Data Transferred 2678/5548
+Tue 22 Apr 2025 22:36:04 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 3216/6391
+Tue 22 Apr 2025 22:36:05 EDT CONNECT from 127.0.0.1 to completion.amazon.com:443, Data Transferred 3072/702
+Tue 22 Apr 2025 22:36:05 EDT CONNECT from 127.0.0.1 to cookie-matching.mediarithmics.com:443, Data Transferred 2777/5596
+Tue 22 Apr 2025 22:36:05 EDT CONNECT from 127.0.0.1 to image6.pubmatic.com:443, Data Transferred 2957/5210
+Tue 22 Apr 2025 22:36:05 EDT CONNECT from 127.0.0.1 to www.facebook.com:443, Data Transferred 2543/6729
+Tue 22 Apr 2025 22:36:05 EDT CONNECT from 127.0.0.1 to c.amazon-adsystem.com:443, Data Transferred 2461/5600
+Tue 22 Apr 2025 22:36:06 EDT CONNECT from 127.0.0.1 to s.amazon-adsystem.com:443, Data Transferred 1263/6743
+Tue 22 Apr 2025 22:36:08 EDT CONNECT from 127.0.0.1 to unagi-na.amazon.com:443, Data Transferred 7277/7623
+Tue 22 Apr 2025 22:36:09 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3838/4636
+Tue 22 Apr 2025 22:36:09 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 4186/1085
+Tue 22 Apr 2025 22:36:11 EDT CONNECT from 127.0.0.1 to ece.rutgers.edu:443, Data Transferred 4807/103638
+Tue 22 Apr 2025 22:36:11 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 9496/255038
+Tue 22 Apr 2025 22:36:12 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 5278/1378
+Tue 22 Apr 2025 22:36:12 EDT CONNECT from 127.0.0.1 to fonts.googleapis.com:443, Data Transferred 2498/7128
+Tue 22 Apr 2025 22:36:12 EDT CONNECT from 127.0.0.1 to cse.google.com:443, Data Transferred 0/0
+Tue 22 Apr 2025 22:36:13 EDT CONNECT from 127.0.0.1 to platform-api.sharethis.com:443, Data Transferred 1168/5611
+Tue 22 Apr 2025 22:36:13 EDT CONNECT from 127.0.0.1 to buttons-config.sharethis.com:443, Data Transferred 1913/0
+Tue 22 Apr 2025 22:36:14 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 24854/11947
+Tue 22 Apr 2025 22:36:18 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 3919/81474
+Tue 22 Apr 2025 22:36:19 EDT CONNECT from 127.0.0.1 to buttons-config.sharethis.com:443, Data Transferred 1149/5797
+Tue 22 Apr 2025 22:36:23 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 3281/4973
+Tue 22 Apr 2025 22:36:28 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 3837/7029
+Tue 22 Apr 2025 22:36:29 EDT: 127.0.0.1 http://www.example.com/ 245
+Tue 22 Apr 2025 22:36:29 EDT: 127.0.0.1 http://www.example.com/favicon.ico 1643
+Tue 22 Apr 2025 22:36:30 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 4186/1085
+Tue 22 Apr 2025 22:36:31 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 4559/1402
+Tue 22 Apr 2025 22:36:33 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 1879/6415
+Tue 22 Apr 2025 22:36:33 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2334/4531
+Tue 22 Apr 2025 22:36:34 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 5030/1620
+Tue 22 Apr 2025 22:36:38 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 4196/7007
+Tue 22 Apr 2025 22:36:39 EDT CONNECT from 127.0.0.1 to m.media-amazon.com:443, Data Transferred 2703/990878
+Tue 22 Apr 2025 22:36:39 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 0/0
+Tue 22 Apr 2025 22:36:40 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2793/7172
+Tue 22 Apr 2025 22:36:42 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 5012/1574
+Tue 22 Apr 2025 22:36:42 EDT CONNECT from 127.0.0.1 to www.example.com:443, Data Transferred 2674/5478
+Tue 22 Apr 2025 22:36:44 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 2345/5373
+Tue 22 Apr 2025 22:36:45 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 3113/6413
+Tue 22 Apr 2025 22:36:45 EDT CONNECT from 127.0.0.1 to push.services.mozilla.com:443, Data Transferred 2097/3729
+Tue 22 Apr 2025 22:36:57 EDT CONNECT from 127.0.0.1 to m.media-amazon.com:443, Data Transferred 2449/153793
+Tue 22 Apr 2025 22:37:03 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 5026/5800
+Tue 22 Apr 2025 22:37:10 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 5000/4536
+Tue 22 Apr 2025 22:37:18 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 4865/4973
+Tue 22 Apr 2025 22:37:49 EDT CONNECT from 127.0.0.1 to images-na.ssl-images-amazon.com:443, Data Transferred 9853/145832
+Tue 22 Apr 2025 22:37:49 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 8244/220929
+Tue 22 Apr 2025 22:37:50 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 5548/1221
+Tue 22 Apr 2025 22:37:50 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 5280/4718
+Tue 22 Apr 2025 22:37:50 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 3060/8924
+Tue 22 Apr 2025 22:37:51 EDT CONNECT from 127.0.0.1 to encrypted-tbn0.gstatic.com:443, Data Transferred 2494/7485
+Tue 22 Apr 2025 22:37:51 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 30991/7623
+Tue 22 Apr 2025 22:37:51 EDT CONNECT from 127.0.0.1 to ece.rutgers.edu:443, Data Transferred 2793/25250
+Tue 22 Apr 2025 22:37:51 EDT CONNECT from 127.0.0.1 to ssum-sec.casalemedia.com:443, Data Transferred 2608/5408
+Tue 22 Apr 2025 22:37:51 EDT CONNECT from 127.0.0.1 to lciapi.ninthdecimal.com:443, Data Transferred 2529/4557
+Tue 22 Apr 2025 22:37:51 EDT CONNECT from 127.0.0.1 to cms.analytics.yahoo.com:443, Data Transferred 2421/6365
+Tue 22 Apr 2025 22:37:52 EDT CONNECT from 127.0.0.1 to pi.ispot.tv:443, Data Transferred 2450/4259
+Tue 22 Apr 2025 22:37:52 EDT CONNECT from 127.0.0.1 to usersync.samplicio.us:443, Data Transferred 2442/4873
+Tue 22 Apr 2025 22:37:52 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 7151/1603
+Tue 22 Apr 2025 22:37:52 EDT CONNECT from 127.0.0.1 to ads.samba.tv:443, Data Transferred 2519/4870
+Tue 22 Apr 2025 22:37:52 EDT CONNECT from 127.0.0.1 to unagi-na.amazon.com:443, Data Transferred 5315/7007
+Tue 22 Apr 2025 22:37:52 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 5157/1755
+Tue 22 Apr 2025 22:37:52 EDT CONNECT from 127.0.0.1 to unagi-na.amazon.com:443, Data Transferred 2924/6838
+Tue 22 Apr 2025 22:37:52 EDT CONNECT from 127.0.0.1 to unagi-na.amazon.com:443, Data Transferred 2924/6816
+Tue 22 Apr 2025 22:37:52 EDT CONNECT from 127.0.0.1 to loadus.exelator.com:443, Data Transferred 2591/5462
+Tue 22 Apr 2025 22:37:52 EDT CONNECT from 127.0.0.1 to image6.pubmatic.com:443, Data Transferred 2642/4980
+Tue 22 Apr 2025 22:37:52 EDT CONNECT from 127.0.0.1 to us-u.openx.net:443, Data Transferred 2741/4560
+Tue 22 Apr 2025 22:37:52 EDT CONNECT from 127.0.0.1 to uipglob.semasio.net:443, Data Transferred 3117/4331
+Tue 22 Apr 2025 22:37:52 EDT CONNECT from 127.0.0.1 to c1.adform.net:443, Data Transferred 2648/6807
+Tue 22 Apr 2025 22:37:52 EDT CONNECT from 127.0.0.1 to dpm.demdex.net:443, Data Transferred 2664/6033
+Tue 22 Apr 2025 22:37:52 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 3200/6766
+Tue 22 Apr 2025 22:37:53 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 2505/6773
+Tue 22 Apr 2025 22:37:53 EDT CONNECT from 127.0.0.1 to cse.google.com:443, Data Transferred 2518/64489
+Tue 22 Apr 2025 22:37:54 EDT CONNECT from 127.0.0.1 to buttons-config.sharethis.com:443, Data Transferred 2433/5565
+Tue 22 Apr 2025 22:37:54 EDT CONNECT from 127.0.0.1 to www.google.com:443, Data Transferred 2449/4736
+Tue 22 Apr 2025 22:37:54 EDT CONNECT from 127.0.0.1 to aes.us-east.ono.axp.amazon-adsystem.com:443, Data Transferred 3098/5814
+Tue 22 Apr 2025 22:37:54 EDT CONNECT from 127.0.0.1 to aes.us-east.ono.axp.amazon-adsystem.com:443, Data Transferred 3077/5814
+Tue 22 Apr 2025 22:37:54 EDT CONNECT from 127.0.0.1 to l.sharethis.com:443, Data Transferred 2850/4869
+Tue 22 Apr 2025 22:37:54 EDT CONNECT from 127.0.0.1 to clients1.google.com:443, Data Transferred 2456/7176
+Tue 22 Apr 2025 22:37:55 EDT CONNECT from 127.0.0.1 to s.amazon-adsystem.com:443, Data Transferred 4741/6107
+Tue 22 Apr 2025 22:37:56 EDT CONNECT from 127.0.0.1 to s.amazon-adsystem.com:443, Data Transferred 3069/7244
+Tue 22 Apr 2025 22:37:56 EDT CONNECT from 127.0.0.1 to s.amazon-adsystem.com:443, Data Transferred 3198/1325
+Tue 22 Apr 2025 22:37:56 EDT CONNECT from 127.0.0.1 to cm.g.doubleclick.net:443, Data Transferred 3538/4856
+Tue 22 Apr 2025 22:37:56 EDT CONNECT from 127.0.0.1 to ups.analytics.yahoo.com:443, Data Transferred 2532/5671
+Tue 22 Apr 2025 22:37:56 EDT CONNECT from 127.0.0.1 to ib.adnxs.com:443, Data Transferred 3063/5999
+Tue 22 Apr 2025 22:37:56 EDT CONNECT from 127.0.0.1 to cookie-matching.mediarithmics.com:443, Data Transferred 3024/5664
+Tue 22 Apr 2025 22:37:57 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 3039/6392
+Tue 22 Apr 2025 22:37:59 EDT CONNECT from 127.0.0.1 to m.media-amazon.com:443, Data Transferred 12524/672980
+Tue 22 Apr 2025 22:38:00 EDT CONNECT from 127.0.0.1 to aax-us-iad.amazon.com:443, Data Transferred 2677/823
+Tue 22 Apr 2025 22:38:01 EDT CONNECT from 127.0.0.1 to aes.us-east.ono.axp.amazon-adsystem.com:443, Data Transferred 3406/505
+Tue 22 Apr 2025 22:38:18 EDT CONNECT from 127.0.0.1 to ads.mozilla.org:443, Data Transferred 4186/1085
+Tue 22 Apr 2025 22:38:18 EDT CONNECT from 127.0.0.1 to img-getpocket.cdn.mozilla.net:443, Data Transferred 2705/3882
+Tue 22 Apr 2025 22:38:19 EDT CONNECT from 127.0.0.1 to incoming.telemetry.mozilla.org:443, Data Transferred 5026/1533
+Tue 22 Apr 2025 22:38:19 EDT CONNECT from 127.0.0.1 to cse.google.com:443, Data Transferred 3081/5396
+Tue 22 Apr 2025 22:38:19 EDT CONNECT from 127.0.0.1 to fls-na.amazon.com:443, Data Transferred 6129/5386
+Tue 22 Apr 2025 22:38:20 EDT CONNECT from 127.0.0.1 to www.amazon.com:443, Data Transferred 3096/6412
+Tue 22 Apr 2025 22:38:20 EDT CONNECT from 127.0.0.1 to clients1.google.com:443, Data Transferred 3023/2081
+Tue 22 Apr 2025 22:38:20 EDT CONNECT from 127.0.0.1 to l.sharethis.com:443, Data Transferred 2850/4869
+Tue 22 Apr 2025 22:38:22 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 4281/7007
+Tue 22 Apr 2025 22:38:22 EDT CONNECT from 127.0.0.1 to unagi.amazon.com:443, Data Transferred 3225/7701

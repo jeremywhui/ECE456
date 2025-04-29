@@ -1,0 +1,73 @@
+#include <stdio.h>
+#include <sys/socket.h>
+#include <stdlib.h>
+#include <netinet/in.h>
+#include <string.h>
+#include <unistd.h>
+#include <pthread.h>
+#define PORT 8080
+
+void *thread_handle(void *vargp){
+    printf("Entering the thread: %lu\n", pthread_self());
+    char buffer[1024] = {0};
+    char *response = "Response from server";
+    int connfd = *((int *)vargp);
+    int valread = read( connfd , buffer, 1024);
+    printf("%s\n",buffer );
+    sleep(4);           // simulate application
+    write(connfd, response, strlen(response)); //response from server
+    printf("Response msg sent from the thread: %lu\n", pthread_self());
+    free(vargp);
+    close(connfd);
+    return NULL;
+}
+
+int main(int argc, char const *argv[])
+{
+    int server_fd, *new_socket;
+    struct sockaddr_in address;
+    int addrlen = sizeof(address);
+    pthread_t tid;
+      
+    // Creating socket file descriptor
+    if ((server_fd = socket(AF_INET, SOCK_STREAM, 0)) < 0)
+    {
+        perror("socket failed");
+        exit(EXIT_FAILURE);
+    }
+
+    memset(&address, 0, sizeof(address));
+    address.sin_family = AF_INET;
+    address.sin_addr.s_addr = htonl (INADDR_ANY);
+    address.sin_port = htons( PORT );
+      
+    // Forcefully attaching socket to the port 8080
+    if (bind(server_fd, (struct sockaddr *)&address, 
+                                 sizeof(address))<0)
+    {
+        perror("bind failed");
+        exit(EXIT_FAILURE);
+    }
+    if (listen(server_fd, 1024) < 0)
+    {
+        perror("listen");
+        exit(EXIT_FAILURE);
+    }
+
+    while(1){
+        printf("Waiting for a client to connect…\n");
+        new_socket = malloc(sizeof(int));
+        if ((*new_socket = accept(server_fd, (struct sockaddr *)&address, 
+                       (socklen_t*)&addrlen))<0)
+        {
+            perror("accept");
+            exit(EXIT_FAILURE);
+        }
+
+        pthread_create(&tid, NULL, thread_handle, new_socket);
+        printf("from main(): tid = %ld\n", tid);
+        pthread_detach(tid);
+    }
+    
+    return 0;
+}

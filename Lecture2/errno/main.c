@@ -12,7 +12,7 @@ int main () {
    	  printf("Error: %s\n", strerror(errno));
    	  printf("----------\n");
       
-      perror("Error: ");
+      perror("Error");
       return(-1);
    }
    fclose(fp);

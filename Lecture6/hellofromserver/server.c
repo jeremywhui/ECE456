@@ -32,6 +32,8 @@ int main(int argc, char const *argv[])
         perror("bind failed");
         exit(EXIT_FAILURE);
     }
+
+    /
     if (listen(server_fd, 1024) < 0)
     {
         perror("listen");

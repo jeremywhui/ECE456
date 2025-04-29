@@ -9,7 +9,7 @@ public class HelloServer {
     static String serverMsg= "Hello from Java server";
     public static void main(String[] args) {
         int port = 9000;
-	byte[] buffer = new byte[1024];
+	    byte[] buffer = new byte[1024];
 
         if (args.length > 0) 
             port = Integer.parseInt(args[0]);

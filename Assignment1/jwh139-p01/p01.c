@@ -71,7 +71,7 @@ int main (int argc, char **argv) {
    if (system_flag == 1) {
       // Systemcalls implementation
       // If not enough command line arguments, throw an error
-      if (argc - optind < 3) {
+      if (argc - optind < 2) {
          print_usage(stderr, 1);
       }
       int fd = open(argv[optind], O_RDONLY, 0);

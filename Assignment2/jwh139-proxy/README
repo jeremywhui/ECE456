@@ -1,0 +1,21 @@
+****************
+CS:APP Proxy Lab
+****************
+
+Makefile	- For building proxy
+README		- This file
+
+# Proxy source files
+proxy.{c,h}	- Primary proxy code
+csapp.{c,h}	- Wrapper and helper functions from the CS:APP text
+
+The entirety of the proxy program is written in the main function
+of proxy.c. The program first creates a socket and binds it
+to the requested port, then passively listens for connections,
+and finally enters the main loop for accepting connections from
+the client browser. Once a connection is established with the client,
+the proxy reads the request from the client, rewrites the HTTP
+request, writes the response back while there is still response
+remaining, and finally logs this entry into logfile.txt. The
+program can be run by first running `make clean`, `make`, then finally
+`./proxy portNumber`.

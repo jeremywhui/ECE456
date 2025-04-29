@@ -14,7 +14,7 @@ int main() {
 
   fd = open("file.txt", O_RDONLY, 0);
   if (fd < 0) { perror("r1"); exit(1); }
-
+  
   sz = read(fd, c, 20);
   printf("Returned that %d bytes were read.\n", sz);
   c[sz] = '\0';
